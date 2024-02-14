@@ -1,13 +1,16 @@
 # Aliyah Good - Data Analyst Portfolio
 
-Hi! My name is Aliyah Good and I'm an aspiring Data analyst. 
+Hi! My name is Aliyah Good and I'm an aspiring Data analyst. This repository contains the 
 
 ## Table of Contents
 
-  Projects
-    Tableau
-    SQL
-  Links
+  1. Projects
+     - SQL
+     - Python
+     - Tableau
+     - Power BI
+    
+  2. Links
   
 # Projects
 
