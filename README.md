@@ -11,6 +11,7 @@ Hi! My name is Aliyah Good and I'm an aspiring Data analyst. This repository con
      - Power BI
     
   2. Links
+     - Linkedin
   
 # Projects
 
