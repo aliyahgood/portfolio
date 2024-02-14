@@ -2,12 +2,14 @@
 
 Hi! My name is Aliyah Good and I'm an aspiring Data analyst. 
 
-# Projects
 ## Table of Contents
 
-
-# Education
-
+  Projects
+    Tableau
+    SQL
+  Links
+  
+# Projects
 
 # Links
 
