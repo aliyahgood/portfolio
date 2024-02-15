@@ -5,9 +5,9 @@ Hi! My name is Aliyah Good and I'm an aspiring Data analyst. This repository con
 ## Table of Contents
 
   1. Projects
-     - SQL
+     - [SQL](https://github.com/aliyahgood/portfolio/tree/main/Projects/SQL)
      - Python
-     - Tableau
+     - [Tableau](https://github.com/aliyahgood/portfolio/tree/main/Projects/Tableau)
      - Power BI
     
   2. Links
