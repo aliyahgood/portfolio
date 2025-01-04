@@ -9,13 +9,14 @@ This project explores homelessness in California using demographic and county-le
 - [SQL Code](./CA_homelessness_data_cleaning.sql)
   
 ## Dataset
-- **Title:** People Receiving Homeless Response Services by Age, Race, and Gender
+- **Title:** `People Receiving Homeless Response Services by Age, Race, and Gender`
 - **Source:** Homelessness Data Integration System (HDIS)
-- **Available at:** [Data.gov](https://catalog.data.gov/dataset/people-receiving-homeless-response-services-by-age-race-ethnicity-and-gender-b667d/resource/6860eb43-14bd-4b02-8843-d5e07bb510aa)
+  - Available at: [data.gov](https://catalog.data.gov/dataset/people-receiving-homeless-response-services-by-age-race-ethnicity-and-gender-b667d/resource/6860eb43-14bd-4b02-8843-d5e07bb510aa)
 - **Contents:**
-  - Homeless counts by race
-  - Homeless counts by age
-  - Homeless counts by gender
+  - Homelessness Count by:
+    - Age: `cy_age.csv`
+    - Gender: `cy_gender.csv`
+    - Race: `cy_race.csv`
  
 ## Tools and Technologies
 - **SQL:** Data cleaning and preprocessing
