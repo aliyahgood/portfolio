@@ -23,10 +23,10 @@ This project explores homelessness in California using demographic and county-le
 - **Tableau:** Data visualization and dashboard creation
 
 ## Dashboard Features
-1. **Choropleth Map:** Homeless counts by county
-2. **Donut Charts:** Demographic breakdowns by race, gender, and age
-3. **Line Charts:** Trends in homelessness by demographic
-4. **Interactive Filters:**
+- **Choropleth Map:** Homeless counts by county
+- **Donut Charts:** Demographic breakdowns by race, gender, and age
+- **Line Charts:** Trends in homelessness by demographic
+- **Interactive Filters:**
    - **Year Filter:** Allow users to filter the data by specific years to track changes over time
    - **County Filter:** Enables users to focus on individual counties, offering detailed insights at the local level
 
