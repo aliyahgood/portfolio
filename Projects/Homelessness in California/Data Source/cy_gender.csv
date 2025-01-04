@@ -1,0 +1,1729 @@
+CALENDAR_YEAR,LOCATION_ID,LOCATION,GENDER,EXPERIENCING_HOMELESSNESS_CNT
+2017,All,California,Cisgender Man,101083
+2017,All,California,Cisgender Woman,78722
+2017,All,California,Client doesn't know,1492
+2017,All,California,"Culturally Specific, Non-Binary, and/or a Different Identity",164
+2017,All,California,Questioning,*
+2017,All,California,Transgender,711
+2017,CA-500,Santa Clara County CoC,Cisgender Man,5946
+2017,CA-500,Santa Clara County CoC,Cisgender Woman,3680
+2017,CA-500,Santa Clara County CoC,Client doesn't know,12
+2017,CA-500,Santa Clara County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2017,CA-500,Santa Clara County CoC,Transgender,41
+2017,CA-501,San Francisco CoC,Cisgender Man,2411
+2017,CA-501,San Francisco CoC,Cisgender Woman,1699
+2017,CA-501,San Francisco CoC,Client doesn't know,197
+2017,CA-501,San Francisco CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",20
+2017,CA-501,San Francisco CoC,Questioning,*
+2017,CA-501,San Francisco CoC,Transgender,53
+2017,CA-502,Alameda County CoC,Cisgender Man,3542
+2017,CA-502,Alameda County CoC,Cisgender Woman,3011
+2017,CA-502,Alameda County CoC,Client doesn't know,22
+2017,CA-502,Alameda County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2017,CA-502,Alameda County CoC,Questioning,*
+2017,CA-502,Alameda County CoC,Transgender,19
+2017,CA-503,Sacramento County CoC,Cisgender Man,5879
+2017,CA-503,Sacramento County CoC,Cisgender Woman,5302
+2017,CA-503,Sacramento County CoC,Client doesn't know,*
+2017,CA-503,Sacramento County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",12
+2017,CA-503,Sacramento County CoC,Transgender,32
+2017,CA-504,Sonoma County CoC,Cisgender Man,1742
+2017,CA-504,Sonoma County CoC,Cisgender Woman,1320
+2017,CA-504,Sonoma County CoC,Client doesn't know,*
+2017,CA-504,Sonoma County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2017,CA-504,Sonoma County CoC,Questioning,*
+2017,CA-504,Sonoma County CoC,Transgender,16
+2017,CA-505,Contra Costa County CoC,Cisgender Man,2723
+2017,CA-505,Contra Costa County CoC,Cisgender Woman,2081
+2017,CA-505,Contra Costa County CoC,Client doesn't know,*
+2017,CA-505,Contra Costa County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2017,CA-505,Contra Costa County CoC,Transgender,*
+2017,CA-506,"Monterey, San Benito Counties CoC",Cisgender Man,1022
+2017,CA-506,"Monterey, San Benito Counties CoC",Cisgender Woman,1226
+2017,CA-506,"Monterey, San Benito Counties CoC","Culturally Specific, Non-Binary, and/or a Different Identity",*
+2017,CA-506,"Monterey, San Benito Counties CoC",Questioning,*
+2017,CA-506,"Monterey, San Benito Counties CoC",Transgender,*
+2017,CA-507,Marin County CoC,Cisgender Man,957
+2017,CA-507,Marin County CoC,Cisgender Woman,664
+2017,CA-507,Marin County CoC,Client doesn't know,*
+2017,CA-507,Marin County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2017,CA-507,Marin County CoC,Transgender,*
+2017,CA-508,Santa Cruz County CoC,Cisgender Man,1076
+2017,CA-508,Santa Cruz County CoC,Cisgender Woman,748
+2017,CA-508,Santa Cruz County CoC,Client doesn't know,12
+2017,CA-508,Santa Cruz County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2017,CA-508,Santa Cruz County CoC,Transgender,*
+2017,CA-509,Mendocino County CoC,Cisgender Man,466
+2017,CA-509,Mendocino County CoC,Cisgender Woman,240
+2017,CA-509,Mendocino County CoC,Client doesn't know,*
+2017,CA-509,Mendocino County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2017,CA-509,Mendocino County CoC,Transgender,*
+2017,CA-510,Stanislaus County CoC,Cisgender Man,3112
+2017,CA-510,Stanislaus County CoC,Cisgender Woman,3072
+2017,CA-510,Stanislaus County CoC,Client doesn't know,*
+2017,CA-510,Stanislaus County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2017,CA-510,Stanislaus County CoC,Transgender,12
+2017,CA-511,San Joaquin County CoC,Cisgender Man,4027
+2017,CA-511,San Joaquin County CoC,Cisgender Woman,3814
+2017,CA-511,San Joaquin County CoC,Transgender,*
+2017,CA-512,San Mateo County CoC,Cisgender Man,2399
+2017,CA-512,San Mateo County CoC,Cisgender Woman,1851
+2017,CA-512,San Mateo County CoC,Client doesn't know,*
+2017,CA-512,San Mateo County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2017,CA-512,San Mateo County CoC,Transgender,*
+2017,CA-513,"Kings, Tulare Counties CoC",Cisgender Man,1552
+2017,CA-513,"Kings, Tulare Counties CoC",Cisgender Woman,1398
+2017,CA-513,"Kings, Tulare Counties CoC","Culturally Specific, Non-Binary, and/or a Different Identity",*
+2017,CA-513,"Kings, Tulare Counties CoC",Transgender,*
+2017,CA-514,"Fresno, Madera Counties CoC",Cisgender Man,1236
+2017,CA-514,"Fresno, Madera Counties CoC",Cisgender Woman,1077
+2017,CA-514,"Fresno, Madera Counties CoC",Client doesn't know,*
+2017,CA-514,"Fresno, Madera Counties CoC","Culturally Specific, Non-Binary, and/or a Different Identity",*
+2017,CA-514,"Fresno, Madera Counties CoC",Transgender,*
+2017,CA-515,Placer County CoC,Cisgender Man,702
+2017,CA-515,Placer County CoC,Cisgender Woman,555
+2017,CA-515,Placer County CoC,Client doesn't know,*
+2017,CA-515,Placer County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2017,CA-515,Placer County CoC,Transgender,*
+2017,CA-516,"Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties CoC",Cisgender Man,93
+2017,CA-516,"Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties CoC",Cisgender Woman,158
+2017,CA-516,"Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties CoC",Client doesn't know,*
+2017,CA-517,Napa County CoC,Cisgender Man,577
+2017,CA-517,Napa County CoC,Cisgender Woman,369
+2017,CA-517,Napa County CoC,Transgender,*
+2017,CA-518,Solano County CoC,Cisgender Man,541
+2017,CA-518,Solano County CoC,Cisgender Woman,415
+2017,CA-518,Solano County CoC,Client doesn't know,*
+2017,CA-518,Solano County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2017,CA-519,Butte County CoC,Cisgender Man,758
+2017,CA-519,Butte County CoC,Cisgender Woman,615
+2017,CA-519,Butte County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2017,CA-519,Butte County CoC,Transgender,*
+2017,CA-520,Merced County CoC,Cisgender Man,403
+2017,CA-520,Merced County CoC,Cisgender Woman,200
+2017,CA-520,Merced County CoC,Transgender,*
+2017,CA-521,Yolo County CoC,Cisgender Man,270
+2017,CA-521,Yolo County CoC,Cisgender Woman,258
+2017,CA-521,Yolo County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2017,CA-521,Yolo County CoC,Transgender,*
+2017,CA-522,Humboldt County CoC,Cisgender Man,559
+2017,CA-522,Humboldt County CoC,Cisgender Woman,436
+2017,CA-522,Humboldt County CoC,Client doesn't know,*
+2017,CA-522,Humboldt County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2017,CA-522,Humboldt County CoC,Questioning,*
+2017,CA-522,Humboldt County CoC,Transgender,*
+2017,CA-523,"Colusa, Glenn, Trinity Counties CoC",Cisgender Man,90
+2017,CA-523,"Colusa, Glenn, Trinity Counties CoC",Cisgender Woman,108
+2017,CA-525,El Dorado County CoC,Cisgender Man,185
+2017,CA-525,El Dorado County CoC,Cisgender Woman,113
+2017,CA-525,El Dorado County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2017,CA-525,El Dorado County CoC,Transgender,*
+2017,CA-526,"Amador, Calaveras, Mariposa, Tuolumne Counties CoC",Cisgender Man,243
+2017,CA-526,"Amador, Calaveras, Mariposa, Tuolumne Counties CoC",Cisgender Woman,305
+2017,CA-527,Tehama County CoC,Cisgender Man,254
+2017,CA-527,Tehama County CoC,Cisgender Woman,142
+2017,CA-529,Lake County CoC,Cisgender Man,15
+2017,CA-529,Lake County CoC,Cisgender Woman,26
+2017,CA-530,"Alpine, Inyo, Mono Counties CoC",Cisgender Man,88
+2017,CA-530,"Alpine, Inyo, Mono Counties CoC",Cisgender Woman,93
+2017,CA-531,Nevada County CoC,Cisgender Man,290
+2017,CA-531,Nevada County CoC,Cisgender Woman,170
+2017,CA-531,Nevada County CoC,Client doesn't know,*
+2017,CA-531,Nevada County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2017,CA-600,Los Angeles County CoC,Cisgender Man,31394
+2017,CA-600,Los Angeles County CoC,Cisgender Woman,22786
+2017,CA-600,Los Angeles County CoC,Client doesn't know,885
+2017,CA-600,Los Angeles County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",50
+2017,CA-600,Los Angeles County CoC,Transgender,339
+2017,CA-601,San Diego County CoC,Cisgender Man,6994
+2017,CA-601,San Diego County CoC,Cisgender Woman,4509
+2017,CA-601,San Diego County CoC,Client doesn't know,25
+2017,CA-601,San Diego County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2017,CA-601,San Diego County CoC,Transgender,55
+2017,CA-602,Orange County CoC,Cisgender Man,5522
+2017,CA-602,Orange County CoC,Cisgender Woman,4825
+2017,CA-602,Orange County CoC,Client doesn't know,157
+2017,CA-602,Orange County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2017,CA-602,Orange County CoC,Transgender,17
+2017,CA-603,Santa Barbara County CoC,Cisgender Man,1673
+2017,CA-603,Santa Barbara County CoC,Cisgender Woman,1146
+2017,CA-603,Santa Barbara County CoC,Client doesn't know,*
+2017,CA-603,Santa Barbara County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2017,CA-603,Santa Barbara County CoC,Transgender,*
+2017,CA-604,Kern County CoC,Cisgender Man,2445
+2017,CA-604,Kern County CoC,Cisgender Woman,1817
+2017,CA-604,Kern County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2017,CA-604,Kern County CoC,Transgender,*
+2017,CA-606,Long Beach CoC (Los Angeles County),Cisgender Man,1533
+2017,CA-606,Long Beach CoC (Los Angeles County),Cisgender Woman,1118
+2017,CA-606,Long Beach CoC (Los Angeles County),"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2017,CA-606,Long Beach CoC (Los Angeles County),Transgender,11
+2017,CA-607,Pasadena CoC (Los Angeles County),Cisgender Man,753
+2017,CA-607,Pasadena CoC (Los Angeles County),Cisgender Woman,516
+2017,CA-607,Pasadena CoC (Los Angeles County),Client doesn't know,104
+2017,CA-607,Pasadena CoC (Los Angeles County),"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2017,CA-607,Pasadena CoC (Los Angeles County),Transgender,*
+2017,CA-608,Riverside County CoC,Cisgender Man,3828
+2017,CA-608,Riverside County CoC,Cisgender Woman,2738
+2017,CA-608,Riverside County CoC,Client doesn't know,21
+2017,CA-608,Riverside County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2017,CA-608,Riverside County CoC,Transgender,18
+2017,CA-609,San Bernardino County CoC,Cisgender Man,4130
+2017,CA-609,San Bernardino County CoC,Cisgender Woman,4153
+2017,CA-609,San Bernardino County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2017,CA-609,San Bernardino County CoC,Transgender,*
+2017,CA-611,Ventura County CoC,Cisgender Man,1090
+2017,CA-611,Ventura County CoC,Cisgender Woman,833
+2017,CA-611,Ventura County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2017,CA-611,Ventura County CoC,Questioning,*
+2017,CA-611,Ventura County CoC,Transgender,*
+2017,CA-612,Glendale CoC (Los Angeles County),Cisgender Man,207
+2017,CA-612,Glendale CoC (Los Angeles County),Cisgender Woman,206
+2017,CA-612,Glendale CoC (Los Angeles County),Client doesn't know,*
+2017,CA-612,Glendale CoC (Los Angeles County),Transgender,*
+2017,CA-613,Imperial County CoC,Cisgender Man,395
+2017,CA-613,Imperial County CoC,Cisgender Woman,102
+2017,CA-614,San Luis Obispo County CoC,Cisgender Man,972
+2017,CA-614,San Luis Obispo County CoC,Cisgender Woman,760
+2017,CA-614,San Luis Obispo County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2017,CA-614,San Luis Obispo County CoC,Transgender,*
+2018,All,California,Cisgender Man,118703
+2018,All,California,Cisgender Woman,91044
+2018,All,California,Client doesn't know,1539
+2018,All,California,"Culturally Specific, Non-Binary, and/or a Different Identity",242
+2018,All,California,Questioning,*
+2018,All,California,Transgender,963
+2018,CA-500,Santa Clara County CoC,Cisgender Man,5921
+2018,CA-500,Santa Clara County CoC,Cisgender Woman,3781
+2018,CA-500,Santa Clara County CoC,Client doesn't know,*
+2018,CA-500,Santa Clara County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",18
+2018,CA-500,Santa Clara County CoC,Transgender,45
+2018,CA-501,San Francisco CoC,Cisgender Man,3021
+2018,CA-501,San Francisco CoC,Cisgender Woman,2409
+2018,CA-501,San Francisco CoC,Client doesn't know,156
+2018,CA-501,San Francisco CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",31
+2018,CA-501,San Francisco CoC,Questioning,*
+2018,CA-501,San Francisco CoC,Transgender,69
+2018,CA-502,Alameda County CoC,Cisgender Man,3575
+2018,CA-502,Alameda County CoC,Cisgender Woman,2875
+2018,CA-502,Alameda County CoC,Client doesn't know,*
+2018,CA-502,Alameda County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2018,CA-502,Alameda County CoC,Transgender,26
+2018,CA-503,Sacramento County CoC,Cisgender Man,6018
+2018,CA-503,Sacramento County CoC,Cisgender Woman,5637
+2018,CA-503,Sacramento County CoC,Client doesn't know,*
+2018,CA-503,Sacramento County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",13
+2018,CA-503,Sacramento County CoC,Transgender,45
+2018,CA-504,Sonoma County CoC,Cisgender Man,1803
+2018,CA-504,Sonoma County CoC,Cisgender Woman,1392
+2018,CA-504,Sonoma County CoC,Client doesn't know,*
+2018,CA-504,Sonoma County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2018,CA-504,Sonoma County CoC,Questioning,*
+2018,CA-504,Sonoma County CoC,Transgender,14
+2018,CA-505,Contra Costa County CoC,Cisgender Man,3173
+2018,CA-505,Contra Costa County CoC,Cisgender Woman,2356
+2018,CA-505,Contra Costa County CoC,Client doesn't know,*
+2018,CA-505,Contra Costa County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2018,CA-505,Contra Costa County CoC,Transgender,11
+2018,CA-506,"Monterey, San Benito Counties CoC",Cisgender Man,1272
+2018,CA-506,"Monterey, San Benito Counties CoC",Cisgender Woman,1279
+2018,CA-506,"Monterey, San Benito Counties CoC",Client doesn't know,*
+2018,CA-506,"Monterey, San Benito Counties CoC","Culturally Specific, Non-Binary, and/or a Different Identity",*
+2018,CA-506,"Monterey, San Benito Counties CoC",Questioning,*
+2018,CA-506,"Monterey, San Benito Counties CoC",Transgender,*
+2018,CA-507,Marin County CoC,Cisgender Man,788
+2018,CA-507,Marin County CoC,Cisgender Woman,562
+2018,CA-507,Marin County CoC,Client doesn't know,*
+2018,CA-507,Marin County CoC,Transgender,*
+2018,CA-508,Santa Cruz County CoC,Cisgender Man,1113
+2018,CA-508,Santa Cruz County CoC,Cisgender Woman,739
+2018,CA-508,Santa Cruz County CoC,Client doesn't know,40
+2018,CA-508,Santa Cruz County CoC,Transgender,*
+2018,CA-509,Mendocino County CoC,Cisgender Man,367
+2018,CA-509,Mendocino County CoC,Cisgender Woman,212
+2018,CA-509,Mendocino County CoC,Client doesn't know,*
+2018,CA-509,Mendocino County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2018,CA-509,Mendocino County CoC,Transgender,*
+2018,CA-510,Stanislaus County CoC,Cisgender Man,3316
+2018,CA-510,Stanislaus County CoC,Cisgender Woman,2821
+2018,CA-510,Stanislaus County CoC,Client doesn't know,*
+2018,CA-510,Stanislaus County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2018,CA-510,Stanislaus County CoC,Transgender,*
+2018,CA-511,San Joaquin County CoC,Cisgender Man,4740
+2018,CA-511,San Joaquin County CoC,Cisgender Woman,4422
+2018,CA-511,San Joaquin County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2018,CA-511,San Joaquin County CoC,Transgender,*
+2018,CA-512,San Mateo County CoC,Cisgender Man,2440
+2018,CA-512,San Mateo County CoC,Cisgender Woman,1840
+2018,CA-512,San Mateo County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2018,CA-512,San Mateo County CoC,Transgender,*
+2018,CA-513,"Kings, Tulare Counties CoC",Cisgender Man,1548
+2018,CA-513,"Kings, Tulare Counties CoC",Cisgender Woman,1413
+2018,CA-513,"Kings, Tulare Counties CoC","Culturally Specific, Non-Binary, and/or a Different Identity",*
+2018,CA-513,"Kings, Tulare Counties CoC",Transgender,*
+2018,CA-514,"Fresno, Madera Counties CoC",Cisgender Man,1330
+2018,CA-514,"Fresno, Madera Counties CoC",Cisgender Woman,1160
+2018,CA-514,"Fresno, Madera Counties CoC",Client doesn't know,14
+2018,CA-514,"Fresno, Madera Counties CoC","Culturally Specific, Non-Binary, and/or a Different Identity",*
+2018,CA-514,"Fresno, Madera Counties CoC",Questioning,*
+2018,CA-514,"Fresno, Madera Counties CoC",Transgender,*
+2018,CA-515,Placer County CoC,Cisgender Man,838
+2018,CA-515,Placer County CoC,Cisgender Woman,635
+2018,CA-515,Placer County CoC,Client doesn't know,*
+2018,CA-515,Placer County CoC,Transgender,*
+2018,CA-516,"Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties CoC",Cisgender Man,241
+2018,CA-516,"Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties CoC",Cisgender Woman,285
+2018,CA-516,"Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties CoC",Client doesn't know,85
+2018,CA-516,"Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties CoC","Culturally Specific, Non-Binary, and/or a Different Identity",*
+2018,CA-517,Napa County CoC,Cisgender Man,575
+2018,CA-517,Napa County CoC,Cisgender Woman,355
+2018,CA-517,Napa County CoC,Transgender,*
+2018,CA-518,Solano County CoC,Cisgender Man,468
+2018,CA-518,Solano County CoC,Cisgender Woman,446
+2018,CA-518,Solano County CoC,Client doesn't know,*
+2018,CA-518,Solano County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2018,CA-518,Solano County CoC,Transgender,*
+2018,CA-519,Butte County CoC,Cisgender Man,804
+2018,CA-519,Butte County CoC,Cisgender Woman,677
+2018,CA-519,Butte County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2018,CA-519,Butte County CoC,Transgender,*
+2018,CA-520,Merced County CoC,Cisgender Man,531
+2018,CA-520,Merced County CoC,Cisgender Woman,372
+2018,CA-520,Merced County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2018,CA-520,Merced County CoC,Transgender,*
+2018,CA-521,Yolo County CoC,Cisgender Man,496
+2018,CA-521,Yolo County CoC,Cisgender Woman,469
+2018,CA-521,Yolo County CoC,Client doesn't know,*
+2018,CA-521,Yolo County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2018,CA-521,Yolo County CoC,Transgender,*
+2018,CA-522,Humboldt County CoC,Cisgender Man,614
+2018,CA-522,Humboldt County CoC,Cisgender Woman,430
+2018,CA-522,Humboldt County CoC,Client doesn't know,14
+2018,CA-522,Humboldt County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",12
+2018,CA-522,Humboldt County CoC,Questioning,*
+2018,CA-522,Humboldt County CoC,Transgender,*
+2018,CA-523,"Colusa, Glenn, Trinity Counties CoC",Cisgender Man,148
+2018,CA-523,"Colusa, Glenn, Trinity Counties CoC",Cisgender Woman,201
+2018,CA-523,"Colusa, Glenn, Trinity Counties CoC",Client doesn't know,*
+2018,CA-524,"Yuba, Sutter Counties CoC",Cisgender Man,*
+2018,CA-524,"Yuba, Sutter Counties CoC",Cisgender Woman,*
+2018,CA-525,El Dorado County CoC,Cisgender Man,209
+2018,CA-525,El Dorado County CoC,Cisgender Woman,187
+2018,CA-525,El Dorado County CoC,Client doesn't know,*
+2018,CA-525,El Dorado County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2018,CA-525,El Dorado County CoC,Transgender,*
+2018,CA-526,"Amador, Calaveras, Mariposa, Tuolumne Counties CoC",Cisgender Man,315
+2018,CA-526,"Amador, Calaveras, Mariposa, Tuolumne Counties CoC",Cisgender Woman,385
+2018,CA-526,"Amador, Calaveras, Mariposa, Tuolumne Counties CoC",Transgender,*
+2018,CA-527,Tehama County CoC,Cisgender Man,244
+2018,CA-527,Tehama County CoC,Cisgender Woman,172
+2018,CA-529,Lake County CoC,Cisgender Man,30
+2018,CA-529,Lake County CoC,Cisgender Woman,35
+2018,CA-530,"Alpine, Inyo, Mono Counties CoC",Cisgender Man,93
+2018,CA-530,"Alpine, Inyo, Mono Counties CoC",Cisgender Woman,126
+2018,CA-531,Nevada County CoC,Cisgender Man,347
+2018,CA-531,Nevada County CoC,Cisgender Woman,194
+2018,CA-531,Nevada County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2018,CA-531,Nevada County CoC,Transgender,*
+2018,CA-600,Los Angeles County CoC,Cisgender Man,42765
+2018,CA-600,Los Angeles County CoC,Cisgender Woman,30832
+2018,CA-600,Los Angeles County CoC,Client doesn't know,852
+2018,CA-600,Los Angeles County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",74
+2018,CA-600,Los Angeles County CoC,Transgender,521
+2018,CA-601,San Diego County CoC,Cisgender Man,9198
+2018,CA-601,San Diego County CoC,Cisgender Woman,5821
+2018,CA-601,San Diego County CoC,Client doesn't know,130
+2018,CA-601,San Diego County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",19
+2018,CA-601,San Diego County CoC,Transgender,62
+2018,CA-602,Orange County CoC,Cisgender Man,6748
+2018,CA-602,Orange County CoC,Cisgender Woman,5269
+2018,CA-602,Orange County CoC,Client doesn't know,35
+2018,CA-602,Orange County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2018,CA-602,Orange County CoC,Transgender,22
+2018,CA-603,Santa Barbara County CoC,Cisgender Man,1569
+2018,CA-603,Santa Barbara County CoC,Cisgender Woman,981
+2018,CA-603,Santa Barbara County CoC,Client doesn't know,115
+2018,CA-603,Santa Barbara County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2018,CA-603,Santa Barbara County CoC,Transgender,*
+2018,CA-604,Kern County CoC,Cisgender Man,2526
+2018,CA-604,Kern County CoC,Cisgender Woman,1857
+2018,CA-604,Kern County CoC,Client doesn't know,*
+2018,CA-604,Kern County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2018,CA-604,Kern County CoC,Transgender,*
+2018,CA-606,Long Beach CoC (Los Angeles County),Cisgender Man,1626
+2018,CA-606,Long Beach CoC (Los Angeles County),Cisgender Woman,1114
+2018,CA-606,Long Beach CoC (Los Angeles County),"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2018,CA-606,Long Beach CoC (Los Angeles County),Transgender,*
+2018,CA-607,Pasadena CoC (Los Angeles County),Cisgender Man,977
+2018,CA-607,Pasadena CoC (Los Angeles County),Cisgender Woman,604
+2018,CA-607,Pasadena CoC (Los Angeles County),Client doesn't know,*
+2018,CA-607,Pasadena CoC (Los Angeles County),"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2018,CA-607,Pasadena CoC (Los Angeles County),Transgender,15
+2018,CA-608,Riverside County CoC,Cisgender Man,4043
+2018,CA-608,Riverside County CoC,Cisgender Woman,3058
+2018,CA-608,Riverside County CoC,Client doesn't know,24
+2018,CA-608,Riverside County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2018,CA-608,Riverside County CoC,Transgender,28
+2018,CA-609,San Bernardino County CoC,Cisgender Man,3687
+2018,CA-609,San Bernardino County CoC,Cisgender Woman,3714
+2018,CA-609,San Bernardino County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2018,CA-609,San Bernardino County CoC,Transgender,*
+2018,CA-611,Ventura County CoC,Cisgender Man,913
+2018,CA-611,Ventura County CoC,Cisgender Woman,812
+2018,CA-611,Ventura County CoC,Client doesn't know,*
+2018,CA-611,Ventura County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2018,CA-611,Ventura County CoC,Transgender,*
+2018,CA-612,Glendale CoC (Los Angeles County),Cisgender Man,232
+2018,CA-612,Glendale CoC (Los Angeles County),Cisgender Woman,264
+2018,CA-612,Glendale CoC (Los Angeles County),Client doesn't know,*
+2018,CA-612,Glendale CoC (Los Angeles County),"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2018,CA-612,Glendale CoC (Los Angeles County),Transgender,*
+2018,CA-613,Imperial County CoC,Cisgender Man,553
+2018,CA-613,Imperial County CoC,Cisgender Woman,308
+2018,CA-613,Imperial County CoC,Transgender,*
+2018,CA-614,San Luis Obispo County CoC,Cisgender Man,994
+2018,CA-614,San Luis Obispo County CoC,Cisgender Woman,841
+2018,CA-614,San Luis Obispo County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2018,CA-614,San Luis Obispo County CoC,Transgender,*
+2019,All,California,Cisgender Man,134524
+2019,All,California,Cisgender Woman,100510
+2019,All,California,Client doesn't know,1476
+2019,All,California,"Culturally Specific, Non-Binary, and/or a Different Identity",349
+2019,All,California,Questioning,*
+2019,All,California,Transgender,1104
+2019,CA-500,Santa Clara County CoC,Cisgender Man,6462
+2019,CA-500,Santa Clara County CoC,Cisgender Woman,4089
+2019,CA-500,Santa Clara County CoC,Client doesn't know,*
+2019,CA-500,Santa Clara County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",17
+2019,CA-500,Santa Clara County CoC,Transgender,60
+2019,CA-501,San Francisco CoC,Cisgender Man,4394
+2019,CA-501,San Francisco CoC,Cisgender Woman,3375
+2019,CA-501,San Francisco CoC,Client doesn't know,136
+2019,CA-501,San Francisco CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",46
+2019,CA-501,San Francisco CoC,Questioning,*
+2019,CA-501,San Francisco CoC,Transgender,103
+2019,CA-502,Alameda County CoC,Cisgender Man,4221
+2019,CA-502,Alameda County CoC,Cisgender Woman,3228
+2019,CA-502,Alameda County CoC,Client doesn't know,*
+2019,CA-502,Alameda County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",11
+2019,CA-502,Alameda County CoC,Questioning,*
+2019,CA-502,Alameda County CoC,Transgender,37
+2019,CA-503,Sacramento County CoC,Cisgender Man,5910
+2019,CA-503,Sacramento County CoC,Cisgender Woman,5543
+2019,CA-503,Sacramento County CoC,Client doesn't know,16
+2019,CA-503,Sacramento County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",29
+2019,CA-503,Sacramento County CoC,Transgender,47
+2019,CA-504,Sonoma County CoC,Cisgender Man,2071
+2019,CA-504,Sonoma County CoC,Cisgender Woman,1654
+2019,CA-504,Sonoma County CoC,Client doesn't know,12
+2019,CA-504,Sonoma County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2019,CA-504,Sonoma County CoC,Transgender,18
+2019,CA-505,Contra Costa County CoC,Cisgender Man,4087
+2019,CA-505,Contra Costa County CoC,Cisgender Woman,2785
+2019,CA-505,Contra Costa County CoC,Client doesn't know,14
+2019,CA-505,Contra Costa County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2019,CA-505,Contra Costa County CoC,Transgender,13
+2019,CA-506,"Monterey, San Benito Counties CoC",Cisgender Man,1193
+2019,CA-506,"Monterey, San Benito Counties CoC",Cisgender Woman,1242
+2019,CA-506,"Monterey, San Benito Counties CoC","Culturally Specific, Non-Binary, and/or a Different Identity",*
+2019,CA-506,"Monterey, San Benito Counties CoC",Questioning,*
+2019,CA-506,"Monterey, San Benito Counties CoC",Transgender,*
+2019,CA-507,Marin County CoC,Cisgender Man,710
+2019,CA-507,Marin County CoC,Cisgender Woman,561
+2019,CA-507,Marin County CoC,Client doesn't know,*
+2019,CA-507,Marin County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2019,CA-507,Marin County CoC,Transgender,*
+2019,CA-508,Santa Cruz County CoC,Cisgender Man,1343
+2019,CA-508,Santa Cruz County CoC,Cisgender Woman,858
+2019,CA-508,Santa Cruz County CoC,Client doesn't know,47
+2019,CA-508,Santa Cruz County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2019,CA-508,Santa Cruz County CoC,Transgender,*
+2019,CA-509,Mendocino County CoC,Cisgender Man,399
+2019,CA-509,Mendocino County CoC,Cisgender Woman,318
+2019,CA-509,Mendocino County CoC,Client doesn't know,16
+2019,CA-509,Mendocino County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2019,CA-509,Mendocino County CoC,Transgender,*
+2019,CA-510,Stanislaus County CoC,Cisgender Man,3398
+2019,CA-510,Stanislaus County CoC,Cisgender Woman,2820
+2019,CA-510,Stanislaus County CoC,Client doesn't know,*
+2019,CA-510,Stanislaus County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2019,CA-510,Stanislaus County CoC,Questioning,*
+2019,CA-510,Stanislaus County CoC,Transgender,*
+2019,CA-511,San Joaquin County CoC,Cisgender Man,4998
+2019,CA-511,San Joaquin County CoC,Cisgender Woman,4527
+2019,CA-511,San Joaquin County CoC,Client doesn't know,*
+2019,CA-511,San Joaquin County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2019,CA-511,San Joaquin County CoC,Transgender,*
+2019,CA-512,San Mateo County CoC,Cisgender Man,2556
+2019,CA-512,San Mateo County CoC,Cisgender Woman,1834
+2019,CA-512,San Mateo County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2019,CA-512,San Mateo County CoC,Transgender,14
+2019,CA-513,"Kings, Tulare Counties CoC",Cisgender Man,1693
+2019,CA-513,"Kings, Tulare Counties CoC",Cisgender Woman,1749
+2019,CA-513,"Kings, Tulare Counties CoC",Client doesn't know,*
+2019,CA-513,"Kings, Tulare Counties CoC","Culturally Specific, Non-Binary, and/or a Different Identity",*
+2019,CA-513,"Kings, Tulare Counties CoC",Transgender,*
+2019,CA-514,"Fresno, Madera Counties CoC",Cisgender Man,1481
+2019,CA-514,"Fresno, Madera Counties CoC",Cisgender Woman,1283
+2019,CA-514,"Fresno, Madera Counties CoC",Client doesn't know,21
+2019,CA-514,"Fresno, Madera Counties CoC","Culturally Specific, Non-Binary, and/or a Different Identity",*
+2019,CA-514,"Fresno, Madera Counties CoC",Questioning,*
+2019,CA-514,"Fresno, Madera Counties CoC",Transgender,14
+2019,CA-515,Placer County CoC,Cisgender Man,923
+2019,CA-515,Placer County CoC,Cisgender Woman,749
+2019,CA-515,Placer County CoC,Client doesn't know,*
+2019,CA-515,Placer County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2019,CA-515,Placer County CoC,Transgender,*
+2019,CA-516,"Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties CoC",Cisgender Man,329
+2019,CA-516,"Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties CoC",Cisgender Woman,369
+2019,CA-516,"Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties CoC",Client doesn't know,161
+2019,CA-517,Napa County CoC,Cisgender Man,554
+2019,CA-517,Napa County CoC,Cisgender Woman,375
+2019,CA-517,Napa County CoC,Transgender,*
+2019,CA-518,Solano County CoC,Cisgender Man,566
+2019,CA-518,Solano County CoC,Cisgender Woman,538
+2019,CA-518,Solano County CoC,Client doesn't know,*
+2019,CA-518,Solano County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2019,CA-518,Solano County CoC,Transgender,*
+2019,CA-519,Butte County CoC,Cisgender Man,984
+2019,CA-519,Butte County CoC,Cisgender Woman,753
+2019,CA-519,Butte County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2019,CA-519,Butte County CoC,Transgender,*
+2019,CA-520,Merced County CoC,Cisgender Man,1506
+2019,CA-520,Merced County CoC,Cisgender Woman,1572
+2019,CA-520,Merced County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2019,CA-520,Merced County CoC,Transgender,*
+2019,CA-521,Yolo County CoC,Cisgender Man,610
+2019,CA-521,Yolo County CoC,Cisgender Woman,588
+2019,CA-521,Yolo County CoC,Client doesn't know,*
+2019,CA-521,Yolo County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2019,CA-521,Yolo County CoC,Transgender,*
+2019,CA-522,Humboldt County CoC,Cisgender Man,899
+2019,CA-522,Humboldt County CoC,Cisgender Woman,558
+2019,CA-522,Humboldt County CoC,Client doesn't know,135
+2019,CA-522,Humboldt County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2019,CA-522,Humboldt County CoC,Questioning,*
+2019,CA-522,Humboldt County CoC,Transgender,13
+2019,CA-523,"Colusa, Glenn, Trinity Counties CoC",Cisgender Man,169
+2019,CA-523,"Colusa, Glenn, Trinity Counties CoC",Cisgender Woman,214
+2019,CA-523,"Colusa, Glenn, Trinity Counties CoC",Client doesn't know,*
+2019,CA-523,"Colusa, Glenn, Trinity Counties CoC","Culturally Specific, Non-Binary, and/or a Different Identity",*
+2019,CA-524,"Yuba, Sutter Counties CoC",Cisgender Man,12
+2019,CA-524,"Yuba, Sutter Counties CoC",Cisgender Woman,14
+2019,CA-525,El Dorado County CoC,Cisgender Man,208
+2019,CA-525,El Dorado County CoC,Cisgender Woman,146
+2019,CA-525,El Dorado County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2019,CA-525,El Dorado County CoC,Transgender,*
+2019,CA-526,"Amador, Calaveras, Mariposa, Tuolumne Counties CoC",Cisgender Man,298
+2019,CA-526,"Amador, Calaveras, Mariposa, Tuolumne Counties CoC",Cisgender Woman,370
+2019,CA-526,"Amador, Calaveras, Mariposa, Tuolumne Counties CoC",Transgender,*
+2019,CA-527,Tehama County CoC,Cisgender Man,234
+2019,CA-527,Tehama County CoC,Cisgender Woman,140
+2019,CA-527,Tehama County CoC,Client doesn't know,*
+2019,CA-529,Lake County CoC,Cisgender Man,100
+2019,CA-529,Lake County CoC,Cisgender Woman,132
+2019,CA-530,"Alpine, Inyo, Mono Counties CoC",Cisgender Man,75
+2019,CA-530,"Alpine, Inyo, Mono Counties CoC",Cisgender Woman,79
+2019,CA-531,Nevada County CoC,Cisgender Man,392
+2019,CA-531,Nevada County CoC,Cisgender Woman,215
+2019,CA-531,Nevada County CoC,Client doesn't know,*
+2019,CA-531,Nevada County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2019,CA-531,Nevada County CoC,Transgender,*
+2019,CA-600,Los Angeles County CoC,Cisgender Man,49750
+2019,CA-600,Los Angeles County CoC,Cisgender Woman,34350
+2019,CA-600,Los Angeles County CoC,Client doesn't know,676
+2019,CA-600,Los Angeles County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",112
+2019,CA-600,Los Angeles County CoC,Transgender,553
+2019,CA-601,San Diego County CoC,Cisgender Man,10035
+2019,CA-601,San Diego County CoC,Cisgender Woman,5940
+2019,CA-601,San Diego County CoC,Client doesn't know,140
+2019,CA-601,San Diego County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",24
+2019,CA-601,San Diego County CoC,Transgender,69
+2019,CA-602,Orange County CoC,Cisgender Man,7171
+2019,CA-602,Orange County CoC,Cisgender Woman,5214
+2019,CA-602,Orange County CoC,Client doesn't know,13
+2019,CA-602,Orange County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2019,CA-602,Orange County CoC,Transgender,34
+2019,CA-603,Santa Barbara County CoC,Cisgender Man,1697
+2019,CA-603,Santa Barbara County CoC,Cisgender Woman,1088
+2019,CA-603,Santa Barbara County CoC,Client doesn't know,*
+2019,CA-603,Santa Barbara County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2019,CA-603,Santa Barbara County CoC,Transgender,*
+2019,CA-604,Kern County CoC,Cisgender Man,2568
+2019,CA-604,Kern County CoC,Cisgender Woman,2121
+2019,CA-604,Kern County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2019,CA-604,Kern County CoC,Transgender,*
+2019,CA-606,Long Beach CoC (Los Angeles County),Cisgender Man,2570
+2019,CA-606,Long Beach CoC (Los Angeles County),Cisgender Woman,1498
+2019,CA-606,Long Beach CoC (Los Angeles County),Client doesn't know,*
+2019,CA-606,Long Beach CoC (Los Angeles County),"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2019,CA-606,Long Beach CoC (Los Angeles County),Transgender,11
+2019,CA-607,Pasadena CoC (Los Angeles County),Cisgender Man,971
+2019,CA-607,Pasadena CoC (Los Angeles County),Cisgender Woman,608
+2019,CA-607,Pasadena CoC (Los Angeles County),Client doesn't know,*
+2019,CA-607,Pasadena CoC (Los Angeles County),"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2019,CA-607,Pasadena CoC (Los Angeles County),Transgender,14
+2019,CA-608,Riverside County CoC,Cisgender Man,4382
+2019,CA-608,Riverside County CoC,Cisgender Woman,3536
+2019,CA-608,Riverside County CoC,Client doesn't know,*
+2019,CA-608,Riverside County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2019,CA-608,Riverside County CoC,Transgender,24
+2019,CA-609,San Bernardino County CoC,Cisgender Man,3865
+2019,CA-609,San Bernardino County CoC,Cisgender Woman,3813
+2019,CA-609,San Bernardino County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2019,CA-609,San Bernardino County CoC,Transgender,*
+2019,CA-611,Ventura County CoC,Cisgender Man,1085
+2019,CA-611,Ventura County CoC,Cisgender Woman,937
+2019,CA-611,Ventura County CoC,Client doesn't know,*
+2019,CA-611,Ventura County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2019,CA-611,Ventura County CoC,Transgender,*
+2019,CA-612,Glendale CoC (Los Angeles County),Cisgender Man,207
+2019,CA-612,Glendale CoC (Los Angeles County),Cisgender Woman,266
+2019,CA-612,Glendale CoC (Los Angeles County),"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2019,CA-612,Glendale CoC (Los Angeles County),Transgender,*
+2019,CA-613,Imperial County CoC,Cisgender Man,543
+2019,CA-613,Imperial County CoC,Cisgender Woman,273
+2019,CA-613,Imperial County CoC,Client doesn't know,*
+2019,CA-614,San Luis Obispo County CoC,Cisgender Man,1186
+2019,CA-614,San Luis Obispo County CoC,Cisgender Woman,881
+2019,CA-614,San Luis Obispo County CoC,Client doesn't know,*
+2019,CA-614,San Luis Obispo County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2019,CA-614,San Luis Obispo County CoC,Transgender,*
+2020,All,California,Cisgender Man,143718
+2020,All,California,Cisgender Woman,103688
+2020,All,California,Client doesn't know,2205
+2020,All,California,"Culturally Specific, Non-Binary, and/or a Different Identity",440
+2020,All,California,Questioning,*
+2020,All,California,Transgender,1281
+2020,CA-500,Santa Clara County CoC,Cisgender Man,6900
+2020,CA-500,Santa Clara County CoC,Cisgender Woman,4621
+2020,CA-500,Santa Clara County CoC,Client doesn't know,43
+2020,CA-500,Santa Clara County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",26
+2020,CA-500,Santa Clara County CoC,Transgender,56
+2020,CA-501,San Francisco CoC,Cisgender Man,6694
+2020,CA-501,San Francisco CoC,Cisgender Woman,4357
+2020,CA-501,San Francisco CoC,Client doesn't know,336
+2020,CA-501,San Francisco CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",67
+2020,CA-501,San Francisco CoC,Transgender,167
+2020,CA-502,Alameda County CoC,Cisgender Man,5350
+2020,CA-502,Alameda County CoC,Cisgender Woman,3639
+2020,CA-502,Alameda County CoC,Client doesn't know,*
+2020,CA-502,Alameda County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",22
+2020,CA-502,Alameda County CoC,Questioning,*
+2020,CA-502,Alameda County CoC,Transgender,35
+2020,CA-503,Sacramento County CoC,Cisgender Man,5346
+2020,CA-503,Sacramento County CoC,Cisgender Woman,4736
+2020,CA-503,Sacramento County CoC,Client doesn't know,76
+2020,CA-503,Sacramento County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",34
+2020,CA-503,Sacramento County CoC,Questioning,*
+2020,CA-503,Sacramento County CoC,Transgender,55
+2020,CA-504,Sonoma County CoC,Cisgender Man,2122
+2020,CA-504,Sonoma County CoC,Cisgender Woman,1546
+2020,CA-504,Sonoma County CoC,Client doesn't know,19
+2020,CA-504,Sonoma County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2020,CA-504,Sonoma County CoC,Questioning,*
+2020,CA-504,Sonoma County CoC,Transgender,18
+2020,CA-505,Contra Costa County CoC,Cisgender Man,3593
+2020,CA-505,Contra Costa County CoC,Cisgender Woman,2661
+2020,CA-505,Contra Costa County CoC,Client doesn't know,21
+2020,CA-505,Contra Costa County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2020,CA-505,Contra Costa County CoC,Transgender,16
+2020,CA-506,"Monterey, San Benito Counties CoC",Cisgender Man,1097
+2020,CA-506,"Monterey, San Benito Counties CoC",Cisgender Woman,1086
+2020,CA-506,"Monterey, San Benito Counties CoC",Client doesn't know,*
+2020,CA-506,"Monterey, San Benito Counties CoC","Culturally Specific, Non-Binary, and/or a Different Identity",*
+2020,CA-506,"Monterey, San Benito Counties CoC",Transgender,*
+2020,CA-507,Marin County CoC,Cisgender Man,638
+2020,CA-507,Marin County CoC,Cisgender Woman,493
+2020,CA-507,Marin County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2020,CA-507,Marin County CoC,Transgender,*
+2020,CA-508,Santa Cruz County CoC,Cisgender Man,1445
+2020,CA-508,Santa Cruz County CoC,Cisgender Woman,954
+2020,CA-508,Santa Cruz County CoC,Client doesn't know,16
+2020,CA-508,Santa Cruz County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2020,CA-508,Santa Cruz County CoC,Transgender,11
+2020,CA-509,Mendocino County CoC,Cisgender Man,519
+2020,CA-509,Mendocino County CoC,Cisgender Woman,462
+2020,CA-509,Mendocino County CoC,Client doesn't know,*
+2020,CA-509,Mendocino County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2020,CA-509,Mendocino County CoC,Transgender,*
+2020,CA-510,Stanislaus County CoC,Cisgender Man,2602
+2020,CA-510,Stanislaus County CoC,Cisgender Woman,2202
+2020,CA-510,Stanislaus County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2020,CA-510,Stanislaus County CoC,Transgender,*
+2020,CA-511,San Joaquin County CoC,Cisgender Man,3595
+2020,CA-511,San Joaquin County CoC,Cisgender Woman,3125
+2020,CA-511,San Joaquin County CoC,Client doesn't know,*
+2020,CA-511,San Joaquin County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2020,CA-511,San Joaquin County CoC,Transgender,11
+2020,CA-512,San Mateo County CoC,Cisgender Man,2528
+2020,CA-512,San Mateo County CoC,Cisgender Woman,1751
+2020,CA-512,San Mateo County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2020,CA-512,San Mateo County CoC,Transgender,15
+2020,CA-513,"Kings, Tulare Counties CoC",Cisgender Man,1621
+2020,CA-513,"Kings, Tulare Counties CoC",Cisgender Woman,1668
+2020,CA-513,"Kings, Tulare Counties CoC","Culturally Specific, Non-Binary, and/or a Different Identity",*
+2020,CA-513,"Kings, Tulare Counties CoC",Transgender,*
+2020,CA-514,"Fresno, Madera Counties CoC",Cisgender Man,2525
+2020,CA-514,"Fresno, Madera Counties CoC",Cisgender Woman,2042
+2020,CA-514,"Fresno, Madera Counties CoC",Client doesn't know,*
+2020,CA-514,"Fresno, Madera Counties CoC","Culturally Specific, Non-Binary, and/or a Different Identity",*
+2020,CA-514,"Fresno, Madera Counties CoC",Questioning,*
+2020,CA-514,"Fresno, Madera Counties CoC",Transgender,16
+2020,CA-515,Placer County CoC,Cisgender Man,957
+2020,CA-515,Placer County CoC,Cisgender Woman,765
+2020,CA-515,Placer County CoC,Client doesn't know,13
+2020,CA-515,Placer County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2020,CA-515,Placer County CoC,Transgender,*
+2020,CA-516,"Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties CoC",Cisgender Man,652
+2020,CA-516,"Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties CoC",Cisgender Woman,624
+2020,CA-516,"Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties CoC",Client doesn't know,180
+2020,CA-516,"Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties CoC",Transgender,*
+2020,CA-517,Napa County CoC,Cisgender Man,851
+2020,CA-517,Napa County CoC,Cisgender Woman,510
+2020,CA-517,Napa County CoC,Client doesn't know,*
+2020,CA-517,Napa County CoC,Transgender,*
+2020,CA-518,Solano County CoC,Cisgender Man,733
+2020,CA-518,Solano County CoC,Cisgender Woman,529
+2020,CA-518,Solano County CoC,Client doesn't know,*
+2020,CA-518,Solano County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2020,CA-518,Solano County CoC,Questioning,*
+2020,CA-518,Solano County CoC,Transgender,*
+2020,CA-519,Butte County CoC,Cisgender Man,1020
+2020,CA-519,Butte County CoC,Cisgender Woman,818
+2020,CA-519,Butte County CoC,Client doesn't know,*
+2020,CA-519,Butte County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2020,CA-519,Butte County CoC,Transgender,*
+2020,CA-520,Merced County CoC,Cisgender Man,1283
+2020,CA-520,Merced County CoC,Cisgender Woman,1347
+2020,CA-520,Merced County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2020,CA-520,Merced County CoC,Transgender,*
+2020,CA-521,Yolo County CoC,Cisgender Man,845
+2020,CA-521,Yolo County CoC,Cisgender Woman,696
+2020,CA-521,Yolo County CoC,Client doesn't know,*
+2020,CA-521,Yolo County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2020,CA-521,Yolo County CoC,Transgender,*
+2020,CA-522,Humboldt County CoC,Cisgender Man,997
+2020,CA-522,Humboldt County CoC,Cisgender Woman,566
+2020,CA-522,Humboldt County CoC,Client doesn't know,163
+2020,CA-522,Humboldt County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2020,CA-522,Humboldt County CoC,Transgender,*
+2020,CA-523,"Colusa, Glenn, Trinity Counties CoC",Cisgender Man,225
+2020,CA-523,"Colusa, Glenn, Trinity Counties CoC",Cisgender Woman,283
+2020,CA-523,"Colusa, Glenn, Trinity Counties CoC",Client doesn't know,*
+2020,CA-523,"Colusa, Glenn, Trinity Counties CoC",Transgender,*
+2020,CA-524,"Yuba, Sutter Counties CoC",Cisgender Man,313
+2020,CA-524,"Yuba, Sutter Counties CoC",Cisgender Woman,396
+2020,CA-524,"Yuba, Sutter Counties CoC",Transgender,*
+2020,CA-525,El Dorado County CoC,Cisgender Man,256
+2020,CA-525,El Dorado County CoC,Cisgender Woman,175
+2020,CA-525,El Dorado County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2020,CA-525,El Dorado County CoC,Transgender,*
+2020,CA-526,"Amador, Calaveras, Mariposa, Tuolumne Counties CoC",Cisgender Man,326
+2020,CA-526,"Amador, Calaveras, Mariposa, Tuolumne Counties CoC",Cisgender Woman,389
+2020,CA-526,"Amador, Calaveras, Mariposa, Tuolumne Counties CoC",Transgender,*
+2020,CA-527,Tehama County CoC,Cisgender Man,270
+2020,CA-527,Tehama County CoC,Cisgender Woman,179
+2020,CA-529,Lake County CoC,Cisgender Man,89
+2020,CA-529,Lake County CoC,Cisgender Woman,82
+2020,CA-529,Lake County CoC,Transgender,*
+2020,CA-530,"Alpine, Inyo, Mono Counties CoC",Cisgender Man,113
+2020,CA-530,"Alpine, Inyo, Mono Counties CoC",Cisgender Woman,89
+2020,CA-530,"Alpine, Inyo, Mono Counties CoC",Client doesn't know,*
+2020,CA-531,Nevada County CoC,Cisgender Man,355
+2020,CA-531,Nevada County CoC,Cisgender Woman,185
+2020,CA-531,Nevada County CoC,Client doesn't know,*
+2020,CA-531,Nevada County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2020,CA-531,Nevada County CoC,Transgender,*
+2020,CA-600,Los Angeles County CoC,Cisgender Man,52178
+2020,CA-600,Los Angeles County CoC,Cisgender Woman,33567
+2020,CA-600,Los Angeles County CoC,Client doesn't know,929
+2020,CA-600,Los Angeles County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",134
+2020,CA-600,Los Angeles County CoC,Transgender,641
+2020,CA-601,San Diego County CoC,Cisgender Man,12451
+2020,CA-601,San Diego County CoC,Cisgender Woman,7705
+2020,CA-601,San Diego County CoC,Client doesn't know,302
+2020,CA-601,San Diego County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",44
+2020,CA-601,San Diego County CoC,Questioning,*
+2020,CA-601,San Diego County CoC,Transgender,84
+2020,CA-602,Orange County CoC,Cisgender Man,6866
+2020,CA-602,Orange County CoC,Cisgender Woman,5409
+2020,CA-602,Orange County CoC,Client doesn't know,22
+2020,CA-602,Orange County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",15
+2020,CA-602,Orange County CoC,Questioning,*
+2020,CA-602,Orange County CoC,Transgender,30
+2020,CA-603,Santa Barbara County CoC,Cisgender Man,1748
+2020,CA-603,Santa Barbara County CoC,Cisgender Woman,1151
+2020,CA-603,Santa Barbara County CoC,Client doesn't know,11
+2020,CA-603,Santa Barbara County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",11
+2020,CA-603,Santa Barbara County CoC,Transgender,*
+2020,CA-604,Kern County CoC,Cisgender Man,2665
+2020,CA-604,Kern County CoC,Cisgender Woman,2560
+2020,CA-604,Kern County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2020,CA-604,Kern County CoC,Transgender,*
+2020,CA-606,Long Beach CoC (Los Angeles County),Cisgender Man,2530
+2020,CA-606,Long Beach CoC (Los Angeles County),Cisgender Woman,1587
+2020,CA-606,Long Beach CoC (Los Angeles County),Client doesn't know,13
+2020,CA-606,Long Beach CoC (Los Angeles County),"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2020,CA-606,Long Beach CoC (Los Angeles County),Transgender,16
+2020,CA-607,Pasadena CoC (Los Angeles County),Cisgender Man,821
+2020,CA-607,Pasadena CoC (Los Angeles County),Cisgender Woman,552
+2020,CA-607,Pasadena CoC (Los Angeles County),Client doesn't know,*
+2020,CA-607,Pasadena CoC (Los Angeles County),"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2020,CA-607,Pasadena CoC (Los Angeles County),Transgender,*
+2020,CA-608,Riverside County CoC,Cisgender Man,5019
+2020,CA-608,Riverside County CoC,Cisgender Woman,4033
+2020,CA-608,Riverside County CoC,Client doesn't know,*
+2020,CA-608,Riverside County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2020,CA-608,Riverside County CoC,Transgender,24
+2020,CA-609,San Bernardino County CoC,Cisgender Man,4537
+2020,CA-609,San Bernardino County CoC,Cisgender Woman,4370
+2020,CA-609,San Bernardino County CoC,Client doesn't know,*
+2020,CA-609,San Bernardino County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2020,CA-609,San Bernardino County CoC,Transgender,*
+2020,CA-611,Ventura County CoC,Cisgender Man,1239
+2020,CA-611,Ventura County CoC,Cisgender Woman,978
+2020,CA-611,Ventura County CoC,Client doesn't know,*
+2020,CA-611,Ventura County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2020,CA-611,Ventura County CoC,Transgender,12
+2020,CA-612,Glendale CoC (Los Angeles County),Cisgender Man,294
+2020,CA-612,Glendale CoC (Los Angeles County),Cisgender Woman,281
+2020,CA-612,Glendale CoC (Los Angeles County),"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2020,CA-612,Glendale CoC (Los Angeles County),Transgender,*
+2020,CA-613,Imperial County CoC,Cisgender Man,584
+2020,CA-613,Imperial County CoC,Cisgender Woman,404
+2020,CA-613,Imperial County CoC,Client doesn't know,*
+2020,CA-613,Imperial County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2020,CA-614,San Luis Obispo County CoC,Cisgender Man,941
+2020,CA-614,San Luis Obispo County CoC,Cisgender Woman,735
+2020,CA-614,San Luis Obispo County CoC,Client doesn't know,*
+2020,CA-614,San Luis Obispo County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2020,CA-614,San Luis Obispo County CoC,Transgender,*
+2021,All,California,Cisgender Man,150447
+2021,All,California,Cisgender Woman,110013
+2021,All,California,Client doesn't know,3735
+2021,All,California,"Culturally Specific, Non-Binary, and/or a Different Identity",618
+2021,All,California,Questioning,23
+2021,All,California,Transgender,1392
+2021,CA-500,Santa Clara County CoC,Cisgender Man,7334
+2021,CA-500,Santa Clara County CoC,Cisgender Woman,5283
+2021,CA-500,Santa Clara County CoC,Client doesn't know,56
+2021,CA-500,Santa Clara County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",34
+2021,CA-500,Santa Clara County CoC,Transgender,66
+2021,CA-501,San Francisco CoC,Cisgender Man,8099
+2021,CA-501,San Francisco CoC,Cisgender Woman,5243
+2021,CA-501,San Francisco CoC,Client doesn't know,413
+2021,CA-501,San Francisco CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",92
+2021,CA-501,San Francisco CoC,Questioning,*
+2021,CA-501,San Francisco CoC,Transgender,177
+2021,CA-502,Alameda County CoC,Cisgender Man,5744
+2021,CA-502,Alameda County CoC,Cisgender Woman,4186
+2021,CA-502,Alameda County CoC,Client doesn't know,62
+2021,CA-502,Alameda County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",25
+2021,CA-502,Alameda County CoC,Questioning,*
+2021,CA-502,Alameda County CoC,Transgender,30
+2021,CA-503,Sacramento County CoC,Cisgender Man,5386
+2021,CA-503,Sacramento County CoC,Cisgender Woman,4990
+2021,CA-503,Sacramento County CoC,Client doesn't know,246
+2021,CA-503,Sacramento County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",49
+2021,CA-503,Sacramento County CoC,Questioning,*
+2021,CA-503,Sacramento County CoC,Transgender,55
+2021,CA-504,Sonoma County CoC,Cisgender Man,2168
+2021,CA-504,Sonoma County CoC,Cisgender Woman,1611
+2021,CA-504,Sonoma County CoC,Client doesn't know,*
+2021,CA-504,Sonoma County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",20
+2021,CA-504,Sonoma County CoC,Transgender,25
+2021,CA-505,Contra Costa County CoC,Cisgender Man,3270
+2021,CA-505,Contra Costa County CoC,Cisgender Woman,2575
+2021,CA-505,Contra Costa County CoC,Client doesn't know,*
+2021,CA-505,Contra Costa County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2021,CA-505,Contra Costa County CoC,Transgender,*
+2021,CA-506,"Monterey, San Benito Counties CoC",Cisgender Man,1271
+2021,CA-506,"Monterey, San Benito Counties CoC",Cisgender Woman,1145
+2021,CA-506,"Monterey, San Benito Counties CoC",Client doesn't know,*
+2021,CA-506,"Monterey, San Benito Counties CoC","Culturally Specific, Non-Binary, and/or a Different Identity",*
+2021,CA-506,"Monterey, San Benito Counties CoC",Transgender,*
+2021,CA-507,Marin County CoC,Cisgender Man,956
+2021,CA-507,Marin County CoC,Cisgender Woman,729
+2021,CA-507,Marin County CoC,Client doesn't know,96
+2021,CA-507,Marin County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2021,CA-507,Marin County CoC,Transgender,*
+2021,CA-508,Santa Cruz County CoC,Cisgender Man,1431
+2021,CA-508,Santa Cruz County CoC,Cisgender Woman,979
+2021,CA-508,Santa Cruz County CoC,Client doesn't know,*
+2021,CA-508,Santa Cruz County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2021,CA-508,Santa Cruz County CoC,Transgender,11
+2021,CA-509,Mendocino County CoC,Cisgender Man,690
+2021,CA-509,Mendocino County CoC,Cisgender Woman,613
+2021,CA-509,Mendocino County CoC,Client doesn't know,*
+2021,CA-509,Mendocino County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2021,CA-509,Mendocino County CoC,Transgender,*
+2021,CA-510,Stanislaus County CoC,Cisgender Man,2793
+2021,CA-510,Stanislaus County CoC,Cisgender Woman,2082
+2021,CA-510,Stanislaus County CoC,Client doesn't know,*
+2021,CA-510,Stanislaus County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",14
+2021,CA-510,Stanislaus County CoC,Questioning,*
+2021,CA-510,Stanislaus County CoC,Transgender,12
+2021,CA-511,San Joaquin County CoC,Cisgender Man,3159
+2021,CA-511,San Joaquin County CoC,Cisgender Woman,2794
+2021,CA-511,San Joaquin County CoC,Client doesn't know,40
+2021,CA-511,San Joaquin County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2021,CA-511,San Joaquin County CoC,Questioning,*
+2021,CA-511,San Joaquin County CoC,Transgender,*
+2021,CA-512,San Mateo County CoC,Cisgender Man,2678
+2021,CA-512,San Mateo County CoC,Cisgender Woman,1812
+2021,CA-512,San Mateo County CoC,Client doesn't know,*
+2021,CA-512,San Mateo County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2021,CA-512,San Mateo County CoC,Transgender,15
+2021,CA-513,"Kings, Tulare Counties CoC",Cisgender Man,1664
+2021,CA-513,"Kings, Tulare Counties CoC",Cisgender Woman,1754
+2021,CA-513,"Kings, Tulare Counties CoC","Culturally Specific, Non-Binary, and/or a Different Identity",*
+2021,CA-513,"Kings, Tulare Counties CoC",Transgender,*
+2021,CA-514,"Fresno, Madera Counties CoC",Cisgender Man,3581
+2021,CA-514,"Fresno, Madera Counties CoC",Cisgender Woman,2785
+2021,CA-514,"Fresno, Madera Counties CoC",Client doesn't know,26
+2021,CA-514,"Fresno, Madera Counties CoC","Culturally Specific, Non-Binary, and/or a Different Identity",*
+2021,CA-514,"Fresno, Madera Counties CoC",Questioning,*
+2021,CA-514,"Fresno, Madera Counties CoC",Transgender,30
+2021,CA-515,Placer County CoC,Cisgender Man,1103
+2021,CA-515,Placer County CoC,Cisgender Woman,914
+2021,CA-515,Placer County CoC,Client doesn't know,*
+2021,CA-515,Placer County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2021,CA-515,Placer County CoC,Transgender,*
+2021,CA-516,"Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties CoC",Cisgender Man,885
+2021,CA-516,"Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties CoC",Cisgender Woman,863
+2021,CA-516,"Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties CoC",Client doesn't know,36
+2021,CA-516,"Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties CoC","Culturally Specific, Non-Binary, and/or a Different Identity",*
+2021,CA-516,"Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties CoC",Questioning,*
+2021,CA-516,"Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties CoC",Transgender,*
+2021,CA-517,Napa County CoC,Cisgender Man,438
+2021,CA-517,Napa County CoC,Cisgender Woman,305
+2021,CA-517,Napa County CoC,Client doesn't know,*
+2021,CA-517,Napa County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2021,CA-517,Napa County CoC,Transgender,*
+2021,CA-518,Solano County CoC,Cisgender Man,766
+2021,CA-518,Solano County CoC,Cisgender Woman,582
+2021,CA-518,Solano County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2021,CA-518,Solano County CoC,Questioning,*
+2021,CA-518,Solano County CoC,Transgender,*
+2021,CA-519,Butte County CoC,Cisgender Man,1111
+2021,CA-519,Butte County CoC,Cisgender Woman,914
+2021,CA-519,Butte County CoC,Client doesn't know,*
+2021,CA-519,Butte County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2021,CA-519,Butte County CoC,Transgender,11
+2021,CA-520,Merced County CoC,Cisgender Man,1286
+2021,CA-520,Merced County CoC,Cisgender Woman,1039
+2021,CA-520,Merced County CoC,Client doesn't know,*
+2021,CA-520,Merced County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2021,CA-520,Merced County CoC,Transgender,*
+2021,CA-521,Yolo County CoC,Cisgender Man,749
+2021,CA-521,Yolo County CoC,Cisgender Woman,661
+2021,CA-521,Yolo County CoC,Client doesn't know,*
+2021,CA-521,Yolo County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2021,CA-521,Yolo County CoC,Transgender,*
+2021,CA-522,Humboldt County CoC,Cisgender Man,923
+2021,CA-522,Humboldt County CoC,Cisgender Woman,575
+2021,CA-522,Humboldt County CoC,Client doesn't know,84
+2021,CA-522,Humboldt County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",18
+2021,CA-522,Humboldt County CoC,Questioning,*
+2021,CA-522,Humboldt County CoC,Transgender,*
+2021,CA-523,"Colusa, Glenn, Trinity Counties CoC",Cisgender Man,306
+2021,CA-523,"Colusa, Glenn, Trinity Counties CoC",Cisgender Woman,369
+2021,CA-523,"Colusa, Glenn, Trinity Counties CoC",Client doesn't know,*
+2021,CA-523,"Colusa, Glenn, Trinity Counties CoC",Transgender,*
+2021,CA-524,"Yuba, Sutter Counties CoC",Cisgender Man,1030
+2021,CA-524,"Yuba, Sutter Counties CoC",Cisgender Woman,1133
+2021,CA-524,"Yuba, Sutter Counties CoC","Culturally Specific, Non-Binary, and/or a Different Identity",*
+2021,CA-524,"Yuba, Sutter Counties CoC",Transgender,*
+2021,CA-525,El Dorado County CoC,Cisgender Man,232
+2021,CA-525,El Dorado County CoC,Cisgender Woman,180
+2021,CA-525,El Dorado County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2021,CA-525,El Dorado County CoC,Transgender,*
+2021,CA-526,"Amador, Calaveras, Mariposa, Tuolumne Counties CoC",Cisgender Man,336
+2021,CA-526,"Amador, Calaveras, Mariposa, Tuolumne Counties CoC",Cisgender Woman,388
+2021,CA-526,"Amador, Calaveras, Mariposa, Tuolumne Counties CoC","Culturally Specific, Non-Binary, and/or a Different Identity",*
+2021,CA-526,"Amador, Calaveras, Mariposa, Tuolumne Counties CoC",Transgender,*
+2021,CA-527,Tehama County CoC,Cisgender Man,150
+2021,CA-527,Tehama County CoC,Cisgender Woman,141
+2021,CA-529,Lake County CoC,Cisgender Man,224
+2021,CA-529,Lake County CoC,Cisgender Woman,160
+2021,CA-529,Lake County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2021,CA-529,Lake County CoC,Transgender,*
+2021,CA-530,"Alpine, Inyo, Mono Counties CoC",Cisgender Man,113
+2021,CA-530,"Alpine, Inyo, Mono Counties CoC",Cisgender Woman,110
+2021,CA-531,Nevada County CoC,Cisgender Man,392
+2021,CA-531,Nevada County CoC,Cisgender Woman,291
+2021,CA-531,Nevada County CoC,Client doesn't know,30
+2021,CA-531,Nevada County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2021,CA-531,Nevada County CoC,Transgender,*
+2021,CA-600,Los Angeles County CoC,Cisgender Man,51108
+2021,CA-600,Los Angeles County CoC,Cisgender Woman,32492
+2021,CA-600,Los Angeles County CoC,Client doesn't know,1006
+2021,CA-600,Los Angeles County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",158
+2021,CA-600,Los Angeles County CoC,Questioning,*
+2021,CA-600,Los Angeles County CoC,Transgender,621
+2021,CA-601,San Diego County CoC,Cisgender Man,13560
+2021,CA-601,San Diego County CoC,Cisgender Woman,9119
+2021,CA-601,San Diego County CoC,Client doesn't know,98
+2021,CA-601,San Diego County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",51
+2021,CA-601,San Diego County CoC,Questioning,*
+2021,CA-601,San Diego County CoC,Transgender,98
+2021,CA-602,Orange County CoC,Cisgender Man,8770
+2021,CA-602,Orange County CoC,Cisgender Woman,6542
+2021,CA-602,Orange County CoC,Client doesn't know,1350
+2021,CA-602,Orange County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",44
+2021,CA-602,Orange County CoC,Questioning,*
+2021,CA-602,Orange County CoC,Transgender,47
+2021,CA-603,Santa Barbara County CoC,Cisgender Man,1931
+2021,CA-603,Santa Barbara County CoC,Cisgender Woman,1388
+2021,CA-603,Santa Barbara County CoC,Client doesn't know,*
+2021,CA-603,Santa Barbara County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",15
+2021,CA-603,Santa Barbara County CoC,Questioning,*
+2021,CA-603,Santa Barbara County CoC,Transgender,14
+2021,CA-604,Kern County CoC,Cisgender Man,3792
+2021,CA-604,Kern County CoC,Cisgender Woman,3580
+2021,CA-604,Kern County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2021,CA-604,Kern County CoC,Questioning,*
+2021,CA-604,Kern County CoC,Transgender,21
+2021,CA-606,Long Beach CoC (Los Angeles County),Cisgender Man,1896
+2021,CA-606,Long Beach CoC (Los Angeles County),Cisgender Woman,1163
+2021,CA-606,Long Beach CoC (Los Angeles County),Client doesn't know,48
+2021,CA-606,Long Beach CoC (Los Angeles County),"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2021,CA-606,Long Beach CoC (Los Angeles County),Transgender,14
+2021,CA-607,Pasadena CoC (Los Angeles County),Cisgender Man,599
+2021,CA-607,Pasadena CoC (Los Angeles County),Cisgender Woman,421
+2021,CA-607,Pasadena CoC (Los Angeles County),Client doesn't know,47
+2021,CA-607,Pasadena CoC (Los Angeles County),Transgender,*
+2021,CA-608,Riverside County CoC,Cisgender Man,4449
+2021,CA-608,Riverside County CoC,Cisgender Woman,4007
+2021,CA-608,Riverside County CoC,Client doesn't know,12
+2021,CA-608,Riverside County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",14
+2021,CA-608,Riverside County CoC,Transgender,39
+2021,CA-609,San Bernardino County CoC,Cisgender Man,4159
+2021,CA-609,San Bernardino County CoC,Cisgender Woman,3916
+2021,CA-609,San Bernardino County CoC,Client doesn't know,*
+2021,CA-609,San Bernardino County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2021,CA-609,San Bernardino County CoC,Questioning,*
+2021,CA-609,San Bernardino County CoC,Transgender,15
+2021,CA-611,Ventura County CoC,Cisgender Man,1347
+2021,CA-611,Ventura County CoC,Cisgender Woman,953
+2021,CA-611,Ventura County CoC,Client doesn't know,16
+2021,CA-611,Ventura County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2021,CA-611,Ventura County CoC,Transgender,16
+2021,CA-612,Glendale CoC (Los Angeles County),Cisgender Man,343
+2021,CA-612,Glendale CoC (Los Angeles County),Cisgender Woman,260
+2021,CA-612,Glendale CoC (Los Angeles County),"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2021,CA-612,Glendale CoC (Los Angeles County),Transgender,11
+2021,CA-613,Imperial County CoC,Cisgender Man,872
+2021,CA-613,Imperial County CoC,Cisgender Woman,777
+2021,CA-613,Imperial County CoC,Client doesn't know,11
+2021,CA-613,Imperial County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2021,CA-613,Imperial County CoC,Transgender,*
+2021,CA-614,San Luis Obispo County CoC,Cisgender Man,1308
+2021,CA-614,San Luis Obispo County CoC,Cisgender Woman,947
+2021,CA-614,San Luis Obispo County CoC,Client doesn't know,*
+2021,CA-614,San Luis Obispo County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2021,CA-614,San Luis Obispo County CoC,Transgender,*
+2022,All,California,Cisgender Man,170526
+2022,All,California,Cisgender Woman,129739
+2022,All,California,Client doesn't know,5361
+2022,All,California,"Culturally Specific, Non-Binary, and/or a Different Identity",830
+2022,All,California,Questioning,53
+2022,All,California,Transgender,1644
+2022,CA-500,Santa Clara County CoC,Cisgender Man,8068
+2022,CA-500,Santa Clara County CoC,Cisgender Woman,6074
+2022,CA-500,Santa Clara County CoC,Client doesn't know,59
+2022,CA-500,Santa Clara County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",35
+2022,CA-500,Santa Clara County CoC,Transgender,56
+2022,CA-501,San Francisco CoC,Cisgender Man,10627
+2022,CA-501,San Francisco CoC,Cisgender Woman,6777
+2022,CA-501,San Francisco CoC,Client doesn't know,450
+2022,CA-501,San Francisco CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",125
+2022,CA-501,San Francisco CoC,Questioning,*
+2022,CA-501,San Francisco CoC,Transgender,245
+2022,CA-502,Alameda County CoC,Cisgender Man,6838
+2022,CA-502,Alameda County CoC,Cisgender Woman,4946
+2022,CA-502,Alameda County CoC,Client doesn't know,*
+2022,CA-502,Alameda County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",40
+2022,CA-502,Alameda County CoC,Questioning,*
+2022,CA-502,Alameda County CoC,Transgender,36
+2022,CA-503,Sacramento County CoC,Cisgender Man,5850
+2022,CA-503,Sacramento County CoC,Cisgender Woman,5736
+2022,CA-503,Sacramento County CoC,Client doesn't know,213
+2022,CA-503,Sacramento County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",71
+2022,CA-503,Sacramento County CoC,Questioning,*
+2022,CA-503,Sacramento County CoC,Transgender,58
+2022,CA-504,Sonoma County CoC,Cisgender Man,2202
+2022,CA-504,Sonoma County CoC,Cisgender Woman,1710
+2022,CA-504,Sonoma County CoC,Client doesn't know,*
+2022,CA-504,Sonoma County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",19
+2022,CA-504,Sonoma County CoC,Questioning,*
+2022,CA-504,Sonoma County CoC,Transgender,22
+2022,CA-505,Contra Costa County CoC,Cisgender Man,3458
+2022,CA-505,Contra Costa County CoC,Cisgender Woman,2846
+2022,CA-505,Contra Costa County CoC,Client doesn't know,*
+2022,CA-505,Contra Costa County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",15
+2022,CA-505,Contra Costa County CoC,Questioning,*
+2022,CA-505,Contra Costa County CoC,Transgender,19
+2022,CA-506,"Monterey, San Benito Counties CoC",Cisgender Man,1420
+2022,CA-506,"Monterey, San Benito Counties CoC",Cisgender Woman,1333
+2022,CA-506,"Monterey, San Benito Counties CoC",Client doesn't know,*
+2022,CA-506,"Monterey, San Benito Counties CoC","Culturally Specific, Non-Binary, and/or a Different Identity",*
+2022,CA-506,"Monterey, San Benito Counties CoC",Questioning,*
+2022,CA-506,"Monterey, San Benito Counties CoC",Transgender,*
+2022,CA-507,Marin County CoC,Cisgender Man,995
+2022,CA-507,Marin County CoC,Cisgender Woman,810
+2022,CA-507,Marin County CoC,Client doesn't know,*
+2022,CA-507,Marin County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2022,CA-507,Marin County CoC,Questioning,*
+2022,CA-507,Marin County CoC,Transgender,*
+2022,CA-508,Santa Cruz County CoC,Cisgender Man,999
+2022,CA-508,Santa Cruz County CoC,Cisgender Woman,821
+2022,CA-508,Santa Cruz County CoC,Client doesn't know,*
+2022,CA-508,Santa Cruz County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2022,CA-508,Santa Cruz County CoC,Transgender,*
+2022,CA-509,Mendocino County CoC,Cisgender Man,831
+2022,CA-509,Mendocino County CoC,Cisgender Woman,784
+2022,CA-509,Mendocino County CoC,Client doesn't know,*
+2022,CA-509,Mendocino County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2022,CA-510,Stanislaus County CoC,Cisgender Man,3581
+2022,CA-510,Stanislaus County CoC,Cisgender Woman,2670
+2022,CA-510,Stanislaus County CoC,Client doesn't know,14
+2022,CA-510,Stanislaus County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",18
+2022,CA-510,Stanislaus County CoC,Questioning,*
+2022,CA-510,Stanislaus County CoC,Transgender,11
+2022,CA-511,San Joaquin County CoC,Cisgender Man,4630
+2022,CA-511,San Joaquin County CoC,Cisgender Woman,4260
+2022,CA-511,San Joaquin County CoC,Client doesn't know,35
+2022,CA-511,San Joaquin County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2022,CA-511,San Joaquin County CoC,Questioning,*
+2022,CA-511,San Joaquin County CoC,Transgender,16
+2022,CA-512,San Mateo County CoC,Cisgender Man,2998
+2022,CA-512,San Mateo County CoC,Cisgender Woman,2114
+2022,CA-512,San Mateo County CoC,Client doesn't know,*
+2022,CA-512,San Mateo County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2022,CA-512,San Mateo County CoC,Transgender,18
+2022,CA-513,"Kings, Tulare Counties CoC",Cisgender Man,1993
+2022,CA-513,"Kings, Tulare Counties CoC",Cisgender Woman,2153
+2022,CA-513,"Kings, Tulare Counties CoC","Culturally Specific, Non-Binary, and/or a Different Identity",*
+2022,CA-513,"Kings, Tulare Counties CoC",Transgender,*
+2022,CA-514,"Fresno, Madera Counties CoC",Cisgender Man,4623
+2022,CA-514,"Fresno, Madera Counties CoC",Cisgender Woman,3453
+2022,CA-514,"Fresno, Madera Counties CoC",Client doesn't know,34
+2022,CA-514,"Fresno, Madera Counties CoC","Culturally Specific, Non-Binary, and/or a Different Identity",*
+2022,CA-514,"Fresno, Madera Counties CoC",Questioning,*
+2022,CA-514,"Fresno, Madera Counties CoC",Transgender,28
+2022,CA-515,Placer County CoC,Cisgender Man,1321
+2022,CA-515,Placer County CoC,Cisgender Woman,1158
+2022,CA-515,Placer County CoC,Client doesn't know,11
+2022,CA-515,Placer County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2022,CA-515,Placer County CoC,Questioning,*
+2022,CA-515,Placer County CoC,Transgender,*
+2022,CA-516,"Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties CoC",Cisgender Man,1098
+2022,CA-516,"Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties CoC",Cisgender Woman,1065
+2022,CA-516,"Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties CoC",Client doesn't know,*
+2022,CA-516,"Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties CoC","Culturally Specific, Non-Binary, and/or a Different Identity",*
+2022,CA-516,"Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties CoC",Questioning,*
+2022,CA-516,"Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties CoC",Transgender,*
+2022,CA-517,Napa County CoC,Cisgender Man,577
+2022,CA-517,Napa County CoC,Cisgender Woman,350
+2022,CA-517,Napa County CoC,Client doesn't know,*
+2022,CA-517,Napa County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2022,CA-517,Napa County CoC,Transgender,*
+2022,CA-518,Solano County CoC,Cisgender Man,731
+2022,CA-518,Solano County CoC,Cisgender Woman,538
+2022,CA-518,Solano County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2022,CA-518,Solano County CoC,Transgender,*
+2022,CA-519,Butte County CoC,Cisgender Man,1402
+2022,CA-519,Butte County CoC,Cisgender Woman,1079
+2022,CA-519,Butte County CoC,Client doesn't know,*
+2022,CA-519,Butte County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",11
+2022,CA-519,Butte County CoC,Transgender,14
+2022,CA-520,Merced County CoC,Cisgender Man,1531
+2022,CA-520,Merced County CoC,Cisgender Woman,1479
+2022,CA-520,Merced County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2022,CA-520,Merced County CoC,Questioning,*
+2022,CA-520,Merced County CoC,Transgender,*
+2022,CA-521,Yolo County CoC,Cisgender Man,705
+2022,CA-521,Yolo County CoC,Cisgender Woman,718
+2022,CA-521,Yolo County CoC,Client doesn't know,66
+2022,CA-521,Yolo County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2022,CA-521,Yolo County CoC,Transgender,*
+2022,CA-522,Humboldt County CoC,Cisgender Man,1234
+2022,CA-522,Humboldt County CoC,Cisgender Woman,877
+2022,CA-522,Humboldt County CoC,Client doesn't know,83
+2022,CA-522,Humboldt County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",29
+2022,CA-522,Humboldt County CoC,Questioning,*
+2022,CA-522,Humboldt County CoC,Transgender,18
+2022,CA-523,"Colusa, Glenn, Trinity Counties CoC",Cisgender Man,282
+2022,CA-523,"Colusa, Glenn, Trinity Counties CoC",Cisgender Woman,335
+2022,CA-523,"Colusa, Glenn, Trinity Counties CoC",Client doesn't know,*
+2022,CA-523,"Colusa, Glenn, Trinity Counties CoC","Culturally Specific, Non-Binary, and/or a Different Identity",*
+2022,CA-524,"Yuba, Sutter Counties CoC",Cisgender Man,1239
+2022,CA-524,"Yuba, Sutter Counties CoC",Cisgender Woman,1391
+2022,CA-524,"Yuba, Sutter Counties CoC","Culturally Specific, Non-Binary, and/or a Different Identity",*
+2022,CA-524,"Yuba, Sutter Counties CoC",Transgender,*
+2022,CA-525,El Dorado County CoC,Cisgender Man,274
+2022,CA-525,El Dorado County CoC,Cisgender Woman,211
+2022,CA-525,El Dorado County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2022,CA-525,El Dorado County CoC,Transgender,*
+2022,CA-526,"Amador, Calaveras, Mariposa, Tuolumne Counties CoC",Cisgender Man,429
+2022,CA-526,"Amador, Calaveras, Mariposa, Tuolumne Counties CoC",Cisgender Woman,529
+2022,CA-526,"Amador, Calaveras, Mariposa, Tuolumne Counties CoC",Questioning,*
+2022,CA-526,"Amador, Calaveras, Mariposa, Tuolumne Counties CoC",Transgender,*
+2022,CA-527,Tehama County CoC,Cisgender Man,363
+2022,CA-527,Tehama County CoC,Cisgender Woman,335
+2022,CA-527,Tehama County CoC,Client doesn't know,*
+2022,CA-527,Tehama County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2022,CA-527,Tehama County CoC,Transgender,*
+2022,CA-529,Lake County CoC,Cisgender Man,160
+2022,CA-529,Lake County CoC,Cisgender Woman,141
+2022,CA-529,Lake County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2022,CA-529,Lake County CoC,Transgender,*
+2022,CA-530,"Alpine, Inyo, Mono Counties CoC",Cisgender Man,102
+2022,CA-530,"Alpine, Inyo, Mono Counties CoC",Cisgender Woman,100
+2022,CA-531,Nevada County CoC,Cisgender Man,551
+2022,CA-531,Nevada County CoC,Cisgender Woman,456
+2022,CA-531,Nevada County CoC,Client doesn't know,24
+2022,CA-531,Nevada County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2022,CA-531,Nevada County CoC,Transgender,*
+2022,CA-600,Los Angeles County CoC,Cisgender Man,53226
+2022,CA-600,Los Angeles County CoC,Cisgender Woman,35244
+2022,CA-600,Los Angeles County CoC,Client doesn't know,1232
+2022,CA-600,Los Angeles County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",197
+2022,CA-600,Los Angeles County CoC,Questioning,*
+2022,CA-600,Los Angeles County CoC,Transgender,693
+2022,CA-601,San Diego County CoC,Cisgender Man,14518
+2022,CA-601,San Diego County CoC,Cisgender Woman,10534
+2022,CA-601,San Diego County CoC,Client doesn't know,59
+2022,CA-601,San Diego County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",80
+2022,CA-601,San Diego County CoC,Questioning,*
+2022,CA-601,San Diego County CoC,Transgender,148
+2022,CA-602,Orange County CoC,Cisgender Man,11453
+2022,CA-602,Orange County CoC,Cisgender Woman,8610
+2022,CA-602,Orange County CoC,Client doesn't know,2905
+2022,CA-602,Orange County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",48
+2022,CA-602,Orange County CoC,Questioning,*
+2022,CA-602,Orange County CoC,Transgender,50
+2022,CA-603,Santa Barbara County CoC,Cisgender Man,2314
+2022,CA-603,Santa Barbara County CoC,Cisgender Woman,1738
+2022,CA-603,Santa Barbara County CoC,Client doesn't know,*
+2022,CA-603,Santa Barbara County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",14
+2022,CA-603,Santa Barbara County CoC,Questioning,*
+2022,CA-603,Santa Barbara County CoC,Transgender,*
+2022,CA-604,Kern County CoC,Cisgender Man,4368
+2022,CA-604,Kern County CoC,Cisgender Woman,3899
+2022,CA-604,Kern County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2022,CA-604,Kern County CoC,Questioning,*
+2022,CA-604,Kern County CoC,Transgender,20
+2022,CA-606,Long Beach CoC (Los Angeles County),Cisgender Man,2404
+2022,CA-606,Long Beach CoC (Los Angeles County),Cisgender Woman,1524
+2022,CA-606,Long Beach CoC (Los Angeles County),Client doesn't know,*
+2022,CA-606,Long Beach CoC (Los Angeles County),"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2022,CA-606,Long Beach CoC (Los Angeles County),Questioning,*
+2022,CA-606,Long Beach CoC (Los Angeles County),Transgender,17
+2022,CA-607,Pasadena CoC (Los Angeles County),Cisgender Man,736
+2022,CA-607,Pasadena CoC (Los Angeles County),Cisgender Woman,547
+2022,CA-607,Pasadena CoC (Los Angeles County),Client doesn't know,68
+2022,CA-607,Pasadena CoC (Los Angeles County),"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2022,CA-607,Pasadena CoC (Los Angeles County),Transgender,11
+2022,CA-608,Riverside County CoC,Cisgender Man,5615
+2022,CA-608,Riverside County CoC,Cisgender Woman,5135
+2022,CA-608,Riverside County CoC,Client doesn't know,22
+2022,CA-608,Riverside County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",26
+2022,CA-608,Riverside County CoC,Questioning,*
+2022,CA-608,Riverside County CoC,Transgender,64
+2022,CA-609,San Bernardino County CoC,Cisgender Man,4865
+2022,CA-609,San Bernardino County CoC,Cisgender Woman,4873
+2022,CA-609,San Bernardino County CoC,Client doesn't know,*
+2022,CA-609,San Bernardino County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",13
+2022,CA-609,San Bernardino County CoC,Questioning,*
+2022,CA-609,San Bernardino County CoC,Transgender,21
+2022,CA-611,Ventura County CoC,Cisgender Man,1666
+2022,CA-611,Ventura County CoC,Cisgender Woman,1252
+2022,CA-611,Ventura County CoC,Client doesn't know,17
+2022,CA-611,Ventura County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2022,CA-611,Ventura County CoC,Transgender,17
+2022,CA-612,Glendale CoC (Los Angeles County),Cisgender Man,452
+2022,CA-612,Glendale CoC (Los Angeles County),Cisgender Woman,334
+2022,CA-612,Glendale CoC (Los Angeles County),"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2022,CA-612,Glendale CoC (Los Angeles County),Transgender,14
+2022,CA-613,Imperial County CoC,Cisgender Man,881
+2022,CA-613,Imperial County CoC,Cisgender Woman,976
+2022,CA-613,Imperial County CoC,Client doesn't know,*
+2022,CA-613,Imperial County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2022,CA-613,Imperial County CoC,Transgender,*
+2022,CA-614,San Luis Obispo County CoC,Cisgender Man,1540
+2022,CA-614,San Luis Obispo County CoC,Cisgender Woman,1213
+2022,CA-614,San Luis Obispo County CoC,Client doesn't know,13
+2022,CA-614,San Luis Obispo County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2022,CA-614,San Luis Obispo County CoC,Transgender,*
+2023,All,California,Cisgender Man,187746
+2023,All,California,Cisgender Woman,143616
+2023,All,California,Client doesn't know,5807
+2023,All,California,"Culturally Specific, Non-Binary, and/or a Different Identity",1002
+2023,All,California,Questioning,77
+2023,All,California,Transgender,1848
+2023,CA-500,Santa Clara County CoC,Cisgender Man,8746
+2023,CA-500,Santa Clara County CoC,Cisgender Woman,6694
+2023,CA-500,Santa Clara County CoC,Client doesn't know,21
+2023,CA-500,Santa Clara County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",44
+2023,CA-500,Santa Clara County CoC,Questioning,*
+2023,CA-500,Santa Clara County CoC,Transgender,59
+2023,CA-501,San Francisco CoC,Cisgender Man,11522
+2023,CA-501,San Francisco CoC,Cisgender Woman,7710
+2023,CA-501,San Francisco CoC,Client doesn't know,534
+2023,CA-501,San Francisco CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",158
+2023,CA-501,San Francisco CoC,Questioning,11
+2023,CA-501,San Francisco CoC,Transgender,279
+2023,CA-502,Alameda County CoC,Cisgender Man,7697
+2023,CA-502,Alameda County CoC,Cisgender Woman,5855
+2023,CA-502,Alameda County CoC,Client doesn't know,*
+2023,CA-502,Alameda County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",53
+2023,CA-502,Alameda County CoC,Questioning,*
+2023,CA-502,Alameda County CoC,Transgender,41
+2023,CA-503,Sacramento County CoC,Cisgender Man,6295
+2023,CA-503,Sacramento County CoC,Cisgender Woman,6338
+2023,CA-503,Sacramento County CoC,Client doesn't know,464
+2023,CA-503,Sacramento County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",73
+2023,CA-503,Sacramento County CoC,Questioning,*
+2023,CA-503,Sacramento County CoC,Transgender,49
+2023,CA-504,Sonoma County CoC,Cisgender Man,2406
+2023,CA-504,Sonoma County CoC,Cisgender Woman,1866
+2023,CA-504,Sonoma County CoC,Client doesn't know,*
+2023,CA-504,Sonoma County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",17
+2023,CA-504,Sonoma County CoC,Questioning,*
+2023,CA-504,Sonoma County CoC,Transgender,26
+2023,CA-505,Contra Costa County CoC,Cisgender Man,4439
+2023,CA-505,Contra Costa County CoC,Cisgender Woman,3535
+2023,CA-505,Contra Costa County CoC,Client doesn't know,*
+2023,CA-505,Contra Costa County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",15
+2023,CA-505,Contra Costa County CoC,Questioning,*
+2023,CA-505,Contra Costa County CoC,Transgender,18
+2023,CA-506,"Monterey, San Benito Counties CoC",Cisgender Man,1607
+2023,CA-506,"Monterey, San Benito Counties CoC",Cisgender Woman,1471
+2023,CA-506,"Monterey, San Benito Counties CoC",Client doesn't know,*
+2023,CA-506,"Monterey, San Benito Counties CoC","Culturally Specific, Non-Binary, and/or a Different Identity",*
+2023,CA-506,"Monterey, San Benito Counties CoC",Questioning,*
+2023,CA-506,"Monterey, San Benito Counties CoC",Transgender,*
+2023,CA-507,Marin County CoC,Cisgender Man,1039
+2023,CA-507,Marin County CoC,Cisgender Woman,857
+2023,CA-507,Marin County CoC,Client doesn't know,*
+2023,CA-507,Marin County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2023,CA-507,Marin County CoC,Transgender,*
+2023,CA-508,Santa Cruz County CoC,Cisgender Man,1139
+2023,CA-508,Santa Cruz County CoC,Cisgender Woman,799
+2023,CA-508,Santa Cruz County CoC,Client doesn't know,*
+2023,CA-508,Santa Cruz County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2023,CA-508,Santa Cruz County CoC,Transgender,*
+2023,CA-509,Mendocino County CoC,Cisgender Man,731
+2023,CA-509,Mendocino County CoC,Cisgender Woman,652
+2023,CA-509,Mendocino County CoC,Client doesn't know,*
+2023,CA-509,Mendocino County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2023,CA-509,Mendocino County CoC,Transgender,*
+2023,CA-510,Stanislaus County CoC,Cisgender Man,3489
+2023,CA-510,Stanislaus County CoC,Cisgender Woman,2900
+2023,CA-510,Stanislaus County CoC,Client doesn't know,*
+2023,CA-510,Stanislaus County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",18
+2023,CA-510,Stanislaus County CoC,Questioning,*
+2023,CA-510,Stanislaus County CoC,Transgender,17
+2023,CA-511,San Joaquin County CoC,Cisgender Man,4569
+2023,CA-511,San Joaquin County CoC,Cisgender Woman,4307
+2023,CA-511,San Joaquin County CoC,Client doesn't know,33
+2023,CA-511,San Joaquin County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2023,CA-511,San Joaquin County CoC,Questioning,*
+2023,CA-511,San Joaquin County CoC,Transgender,19
+2023,CA-512,San Mateo County CoC,Cisgender Man,3460
+2023,CA-512,San Mateo County CoC,Cisgender Woman,2374
+2023,CA-512,San Mateo County CoC,Client doesn't know,17
+2023,CA-512,San Mateo County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2023,CA-512,San Mateo County CoC,Transgender,15
+2023,CA-513,"Kings, Tulare Counties CoC",Cisgender Man,2376
+2023,CA-513,"Kings, Tulare Counties CoC",Cisgender Woman,2446
+2023,CA-513,"Kings, Tulare Counties CoC","Culturally Specific, Non-Binary, and/or a Different Identity",*
+2023,CA-513,"Kings, Tulare Counties CoC",Transgender,11
+2023,CA-514,"Fresno, Madera Counties CoC",Cisgender Man,6302
+2023,CA-514,"Fresno, Madera Counties CoC",Cisgender Woman,4670
+2023,CA-514,"Fresno, Madera Counties CoC",Client doesn't know,81
+2023,CA-514,"Fresno, Madera Counties CoC","Culturally Specific, Non-Binary, and/or a Different Identity",21
+2023,CA-514,"Fresno, Madera Counties CoC",Questioning,*
+2023,CA-514,"Fresno, Madera Counties CoC",Transgender,38
+2023,CA-515,Placer County CoC,Cisgender Man,1361
+2023,CA-515,Placer County CoC,Cisgender Woman,1121
+2023,CA-515,Placer County CoC,Client doesn't know,*
+2023,CA-515,Placer County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",12
+2023,CA-515,Placer County CoC,Questioning,*
+2023,CA-515,Placer County CoC,Transgender,*
+2023,CA-516,"Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties CoC",Cisgender Man,1165
+2023,CA-516,"Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties CoC",Cisgender Woman,1153
+2023,CA-516,"Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties CoC",Client doesn't know,*
+2023,CA-516,"Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties CoC","Culturally Specific, Non-Binary, and/or a Different Identity",*
+2023,CA-516,"Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties CoC",Questioning,*
+2023,CA-516,"Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties CoC",Transgender,*
+2023,CA-517,Napa County CoC,Cisgender Man,610
+2023,CA-517,Napa County CoC,Cisgender Woman,427
+2023,CA-517,Napa County CoC,Client doesn't know,*
+2023,CA-517,Napa County CoC,Transgender,*
+2023,CA-518,Solano County CoC,Cisgender Man,755
+2023,CA-518,Solano County CoC,Cisgender Woman,639
+2023,CA-518,Solano County CoC,Client doesn't know,*
+2023,CA-518,Solano County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2023,CA-518,Solano County CoC,Transgender,*
+2023,CA-519,Butte County CoC,Cisgender Man,2275
+2023,CA-519,Butte County CoC,Cisgender Woman,1988
+2023,CA-519,Butte County CoC,Client doesn't know,88
+2023,CA-519,Butte County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",16
+2023,CA-519,Butte County CoC,Questioning,*
+2023,CA-519,Butte County CoC,Transgender,15
+2023,CA-520,Merced County CoC,Cisgender Man,1674
+2023,CA-520,Merced County CoC,Cisgender Woman,1769
+2023,CA-520,Merced County CoC,Client doesn't know,*
+2023,CA-520,Merced County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2023,CA-520,Merced County CoC,Questioning,*
+2023,CA-520,Merced County CoC,Transgender,*
+2023,CA-521,Yolo County CoC,Cisgender Man,669
+2023,CA-521,Yolo County CoC,Cisgender Woman,727
+2023,CA-521,Yolo County CoC,Client doesn't know,144
+2023,CA-521,Yolo County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2023,CA-521,Yolo County CoC,Transgender,*
+2023,CA-522,Humboldt County CoC,Cisgender Man,1375
+2023,CA-522,Humboldt County CoC,Cisgender Woman,1061
+2023,CA-522,Humboldt County CoC,Client doesn't know,80
+2023,CA-522,Humboldt County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",35
+2023,CA-522,Humboldt County CoC,Questioning,*
+2023,CA-522,Humboldt County CoC,Transgender,14
+2023,CA-523,"Colusa, Glenn, Trinity Counties CoC",Cisgender Man,248
+2023,CA-523,"Colusa, Glenn, Trinity Counties CoC",Cisgender Woman,324
+2023,CA-523,"Colusa, Glenn, Trinity Counties CoC",Client doesn't know,*
+2023,CA-524,"Yuba, Sutter Counties CoC",Cisgender Man,1465
+2023,CA-524,"Yuba, Sutter Counties CoC",Cisgender Woman,1558
+2023,CA-524,"Yuba, Sutter Counties CoC","Culturally Specific, Non-Binary, and/or a Different Identity",*
+2023,CA-524,"Yuba, Sutter Counties CoC",Transgender,*
+2023,CA-525,El Dorado County CoC,Cisgender Man,354
+2023,CA-525,El Dorado County CoC,Cisgender Woman,265
+2023,CA-525,El Dorado County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2023,CA-525,El Dorado County CoC,Questioning,*
+2023,CA-525,El Dorado County CoC,Transgender,*
+2023,CA-526,"Amador, Calaveras, Mariposa, Tuolumne Counties CoC",Cisgender Man,411
+2023,CA-526,"Amador, Calaveras, Mariposa, Tuolumne Counties CoC",Cisgender Woman,513
+2023,CA-526,"Amador, Calaveras, Mariposa, Tuolumne Counties CoC",Questioning,*
+2023,CA-526,"Amador, Calaveras, Mariposa, Tuolumne Counties CoC",Transgender,*
+2023,CA-527,Tehama County CoC,Cisgender Man,381
+2023,CA-527,Tehama County CoC,Cisgender Woman,309
+2023,CA-527,Tehama County CoC,Client doesn't know,*
+2023,CA-527,Tehama County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2023,CA-527,Tehama County CoC,Transgender,*
+2023,CA-529,Lake County CoC,Cisgender Man,235
+2023,CA-529,Lake County CoC,Cisgender Woman,203
+2023,CA-529,Lake County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2023,CA-529,Lake County CoC,Transgender,*
+2023,CA-530,"Alpine, Inyo, Mono Counties CoC",Cisgender Man,59
+2023,CA-530,"Alpine, Inyo, Mono Counties CoC",Cisgender Woman,72
+2023,CA-531,Nevada County CoC,Cisgender Man,665
+2023,CA-531,Nevada County CoC,Cisgender Woman,508
+2023,CA-531,Nevada County CoC,Client doesn't know,11
+2023,CA-531,Nevada County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",12
+2023,CA-531,Nevada County CoC,Transgender,*
+2023,CA-600,Los Angeles County CoC,Cisgender Man,58724
+2023,CA-600,Los Angeles County CoC,Cisgender Woman,38627
+2023,CA-600,Los Angeles County CoC,Client doesn't know,1228
+2023,CA-600,Los Angeles County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",252
+2023,CA-600,Los Angeles County CoC,Questioning,19
+2023,CA-600,Los Angeles County CoC,Transgender,793
+2023,CA-601,San Diego County CoC,Cisgender Man,15269
+2023,CA-601,San Diego County CoC,Cisgender Woman,11641
+2023,CA-601,San Diego County CoC,Client doesn't know,60
+2023,CA-601,San Diego County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",90
+2023,CA-601,San Diego County CoC,Questioning,*
+2023,CA-601,San Diego County CoC,Transgender,157
+2023,CA-602,Orange County CoC,Cisgender Man,11883
+2023,CA-602,Orange County CoC,Cisgender Woman,9073
+2023,CA-602,Orange County CoC,Client doesn't know,2764
+2023,CA-602,Orange County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",57
+2023,CA-602,Orange County CoC,Questioning,*
+2023,CA-602,Orange County CoC,Transgender,69
+2023,CA-603,Santa Barbara County CoC,Cisgender Man,2549
+2023,CA-603,Santa Barbara County CoC,Cisgender Woman,1803
+2023,CA-603,Santa Barbara County CoC,Client doesn't know,74
+2023,CA-603,Santa Barbara County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",14
+2023,CA-603,Santa Barbara County CoC,Transgender,*
+2023,CA-604,Kern County CoC,Cisgender Man,4545
+2023,CA-604,Kern County CoC,Cisgender Woman,4174
+2023,CA-604,Kern County CoC,Client doesn't know,*
+2023,CA-604,Kern County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",14
+2023,CA-604,Kern County CoC,Transgender,25
+2023,CA-606,Long Beach CoC (Los Angeles County),Cisgender Man,4037
+2023,CA-606,Long Beach CoC (Los Angeles County),Cisgender Woman,2236
+2023,CA-606,Long Beach CoC (Los Angeles County),Client doesn't know,18
+2023,CA-606,Long Beach CoC (Los Angeles County),"Culturally Specific, Non-Binary, and/or a Different Identity",14
+2023,CA-606,Long Beach CoC (Los Angeles County),Questioning,*
+2023,CA-606,Long Beach CoC (Los Angeles County),Transgender,30
+2023,CA-607,Pasadena CoC (Los Angeles County),Cisgender Man,927
+2023,CA-607,Pasadena CoC (Los Angeles County),Cisgender Woman,591
+2023,CA-607,Pasadena CoC (Los Angeles County),Client doesn't know,49
+2023,CA-607,Pasadena CoC (Los Angeles County),"Culturally Specific, Non-Binary, and/or a Different Identity",11
+2023,CA-607,Pasadena CoC (Los Angeles County),Transgender,18
+2023,CA-608,Riverside County CoC,Cisgender Man,6717
+2023,CA-608,Riverside County CoC,Cisgender Woman,5830
+2023,CA-608,Riverside County CoC,Client doesn't know,29
+2023,CA-608,Riverside County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",28
+2023,CA-608,Riverside County CoC,Questioning,*
+2023,CA-608,Riverside County CoC,Transgender,78
+2023,CA-609,San Bernardino County CoC,Cisgender Man,4407
+2023,CA-609,San Bernardino County CoC,Cisgender Woman,4519
+2023,CA-609,San Bernardino County CoC,Client doesn't know,*
+2023,CA-609,San Bernardino County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",12
+2023,CA-609,San Bernardino County CoC,Questioning,*
+2023,CA-609,San Bernardino County CoC,Transgender,18
+2023,CA-611,Ventura County CoC,Cisgender Man,1634
+2023,CA-611,Ventura County CoC,Cisgender Woman,1240
+2023,CA-611,Ventura County CoC,Client doesn't know,19
+2023,CA-611,Ventura County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2023,CA-611,Ventura County CoC,Questioning,*
+2023,CA-611,Ventura County CoC,Transgender,18
+2023,CA-612,Glendale CoC (Los Angeles County),Cisgender Man,460
+2023,CA-612,Glendale CoC (Los Angeles County),Cisgender Woman,400
+2023,CA-612,Glendale CoC (Los Angeles County),"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2023,CA-612,Glendale CoC (Los Angeles County),Transgender,17
+2023,CA-613,Imperial County CoC,Cisgender Man,811
+2023,CA-613,Imperial County CoC,Cisgender Woman,980
+2023,CA-613,Imperial County CoC,Client doesn't know,*
+2023,CA-613,Imperial County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2023,CA-613,Imperial County CoC,Transgender,*
+2023,CA-614,San Luis Obispo County CoC,Cisgender Man,1831
+2023,CA-614,San Luis Obispo County CoC,Cisgender Woman,1386
+2023,CA-614,San Luis Obispo County CoC,Client doesn't know,14
+2023,CA-614,San Luis Obispo County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2023,CA-614,San Luis Obispo County CoC,Transgender,12
+2024,All,California,Cisgender Man,143543
+2024,All,California,Cisgender Woman,108135
+2024,All,California,Client doesn't know,2817
+2024,All,California,"Culturally Specific, Non-Binary, and/or a Different Identity",781
+2024,All,California,Questioning,47
+2024,All,California,Transgender,1435
+2024,CA-500,Santa Clara County CoC,Cisgender Man,6924
+2024,CA-500,Santa Clara County CoC,Cisgender Woman,5173
+2024,CA-500,Santa Clara County CoC,Client doesn't know,13
+2024,CA-500,Santa Clara County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",35
+2024,CA-500,Santa Clara County CoC,Transgender,44
+2024,CA-501,San Francisco CoC,Cisgender Man,9146
+2024,CA-501,San Francisco CoC,Cisgender Woman,6117
+2024,CA-501,San Francisco CoC,Client doesn't know,433
+2024,CA-501,San Francisco CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",141
+2024,CA-501,San Francisco CoC,Questioning,*
+2024,CA-501,San Francisco CoC,Transgender,236
+2024,CA-502,Alameda County CoC,Cisgender Man,6700
+2024,CA-502,Alameda County CoC,Cisgender Woman,4652
+2024,CA-502,Alameda County CoC,Client doesn't know,*
+2024,CA-502,Alameda County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",46
+2024,CA-502,Alameda County CoC,Transgender,32
+2024,CA-503,Sacramento County CoC,Cisgender Man,5058
+2024,CA-503,Sacramento County CoC,Cisgender Woman,5005
+2024,CA-503,Sacramento County CoC,Client doesn't know,374
+2024,CA-503,Sacramento County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",51
+2024,CA-503,Sacramento County CoC,Questioning,*
+2024,CA-503,Sacramento County CoC,Transgender,39
+2024,CA-504,Sonoma County CoC,Cisgender Man,1926
+2024,CA-504,Sonoma County CoC,Cisgender Woman,1447
+2024,CA-504,Sonoma County CoC,Client doesn't know,*
+2024,CA-504,Sonoma County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",15
+2024,CA-504,Sonoma County CoC,Questioning,*
+2024,CA-504,Sonoma County CoC,Transgender,16
+2024,CA-505,Contra Costa County CoC,Cisgender Man,3366
+2024,CA-505,Contra Costa County CoC,Cisgender Woman,2776
+2024,CA-505,Contra Costa County CoC,Client doesn't know,*
+2024,CA-505,Contra Costa County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2024,CA-505,Contra Costa County CoC,Questioning,*
+2024,CA-505,Contra Costa County CoC,Transgender,17
+2024,CA-506,"Monterey, San Benito Counties CoC",Cisgender Man,1276
+2024,CA-506,"Monterey, San Benito Counties CoC",Cisgender Woman,1252
+2024,CA-506,"Monterey, San Benito Counties CoC",Client doesn't know,*
+2024,CA-506,"Monterey, San Benito Counties CoC","Culturally Specific, Non-Binary, and/or a Different Identity",*
+2024,CA-506,"Monterey, San Benito Counties CoC",Questioning,*
+2024,CA-506,"Monterey, San Benito Counties CoC",Transgender,*
+2024,CA-507,Marin County CoC,Cisgender Man,813
+2024,CA-507,Marin County CoC,Cisgender Woman,616
+2024,CA-507,Marin County CoC,Client doesn't know,11
+2024,CA-507,Marin County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2024,CA-507,Marin County CoC,Transgender,*
+2024,CA-508,Santa Cruz County CoC,Cisgender Man,760
+2024,CA-508,Santa Cruz County CoC,Cisgender Woman,601
+2024,CA-508,Santa Cruz County CoC,Client doesn't know,*
+2024,CA-508,Santa Cruz County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2024,CA-508,Santa Cruz County CoC,Transgender,*
+2024,CA-509,Mendocino County CoC,Cisgender Man,453
+2024,CA-509,Mendocino County CoC,Cisgender Woman,379
+2024,CA-509,Mendocino County CoC,Client doesn't know,*
+2024,CA-509,Mendocino County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2024,CA-509,Mendocino County CoC,Transgender,*
+2024,CA-510,Stanislaus County CoC,Cisgender Man,2209
+2024,CA-510,Stanislaus County CoC,Cisgender Woman,1842
+2024,CA-510,Stanislaus County CoC,Client doesn't know,*
+2024,CA-510,Stanislaus County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",17
+2024,CA-510,Stanislaus County CoC,Questioning,*
+2024,CA-510,Stanislaus County CoC,Transgender,13
+2024,CA-511,San Joaquin County CoC,Cisgender Man,3046
+2024,CA-511,San Joaquin County CoC,Cisgender Woman,2910
+2024,CA-511,San Joaquin County CoC,Client doesn't know,*
+2024,CA-511,San Joaquin County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2024,CA-511,San Joaquin County CoC,Questioning,*
+2024,CA-511,San Joaquin County CoC,Transgender,18
+2024,CA-512,San Mateo County CoC,Cisgender Man,3041
+2024,CA-512,San Mateo County CoC,Cisgender Woman,2073
+2024,CA-512,San Mateo County CoC,Client doesn't know,*
+2024,CA-512,San Mateo County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2024,CA-512,San Mateo County CoC,Transgender,18
+2024,CA-513,"Kings, Tulare Counties CoC",Cisgender Man,1868
+2024,CA-513,"Kings, Tulare Counties CoC",Cisgender Woman,1957
+2024,CA-513,"Kings, Tulare Counties CoC","Culturally Specific, Non-Binary, and/or a Different Identity",*
+2024,CA-513,"Kings, Tulare Counties CoC",Transgender,*
+2024,CA-514,"Fresno, Madera Counties CoC",Cisgender Man,4767
+2024,CA-514,"Fresno, Madera Counties CoC",Cisgender Woman,3455
+2024,CA-514,"Fresno, Madera Counties CoC",Client doesn't know,85
+2024,CA-514,"Fresno, Madera Counties CoC","Culturally Specific, Non-Binary, and/or a Different Identity",16
+2024,CA-514,"Fresno, Madera Counties CoC",Questioning,*
+2024,CA-514,"Fresno, Madera Counties CoC",Transgender,27
+2024,CA-515,Placer County CoC,Cisgender Man,1048
+2024,CA-515,Placer County CoC,Cisgender Woman,870
+2024,CA-515,Placer County CoC,Client doesn't know,24
+2024,CA-515,Placer County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2024,CA-515,Placer County CoC,Questioning,*
+2024,CA-515,Placer County CoC,Transgender,*
+2024,CA-516,"Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties CoC",Cisgender Man,863
+2024,CA-516,"Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties CoC",Cisgender Woman,774
+2024,CA-516,"Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties CoC",Client doesn't know,16
+2024,CA-516,"Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties CoC","Culturally Specific, Non-Binary, and/or a Different Identity",*
+2024,CA-516,"Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties CoC",Questioning,*
+2024,CA-516,"Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties CoC",Transgender,*
+2024,CA-517,Napa County CoC,Cisgender Man,449
+2024,CA-517,Napa County CoC,Cisgender Woman,295
+2024,CA-517,Napa County CoC,Client doesn't know,*
+2024,CA-517,Napa County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2024,CA-518,Solano County CoC,Cisgender Man,603
+2024,CA-518,Solano County CoC,Cisgender Woman,598
+2024,CA-518,Solano County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2024,CA-518,Solano County CoC,Transgender,*
+2024,CA-519,Butte County CoC,Cisgender Man,2100
+2024,CA-519,Butte County CoC,Cisgender Woman,1974
+2024,CA-519,Butte County CoC,Client doesn't know,45
+2024,CA-519,Butte County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",15
+2024,CA-519,Butte County CoC,Questioning,*
+2024,CA-519,Butte County CoC,Transgender,13
+2024,CA-520,Merced County CoC,Cisgender Man,1075
+2024,CA-520,Merced County CoC,Cisgender Woman,1042
+2024,CA-520,Merced County CoC,Client doesn't know,*
+2024,CA-520,Merced County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2024,CA-520,Merced County CoC,Questioning,*
+2024,CA-520,Merced County CoC,Transgender,*
+2024,CA-521,Yolo County CoC,Cisgender Man,423
+2024,CA-521,Yolo County CoC,Cisgender Woman,366
+2024,CA-521,Yolo County CoC,Client doesn't know,86
+2024,CA-521,Yolo County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2024,CA-522,Humboldt County CoC,Cisgender Man,1108
+2024,CA-522,Humboldt County CoC,Cisgender Woman,892
+2024,CA-522,Humboldt County CoC,Client doesn't know,34
+2024,CA-522,Humboldt County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",27
+2024,CA-522,Humboldt County CoC,Questioning,*
+2024,CA-522,Humboldt County CoC,Transgender,14
+2024,CA-523,"Colusa, Glenn, Trinity Counties CoC",Cisgender Man,158
+2024,CA-523,"Colusa, Glenn, Trinity Counties CoC",Cisgender Woman,174
+2024,CA-523,"Colusa, Glenn, Trinity Counties CoC",Client doesn't know,*
+2024,CA-523,"Colusa, Glenn, Trinity Counties CoC","Culturally Specific, Non-Binary, and/or a Different Identity",*
+2024,CA-524,"Yuba, Sutter Counties CoC",Cisgender Man,974
+2024,CA-524,"Yuba, Sutter Counties CoC",Cisgender Woman,926
+2024,CA-524,"Yuba, Sutter Counties CoC","Culturally Specific, Non-Binary, and/or a Different Identity",*
+2024,CA-524,"Yuba, Sutter Counties CoC",Transgender,*
+2024,CA-525,El Dorado County CoC,Cisgender Man,241
+2024,CA-525,El Dorado County CoC,Cisgender Woman,179
+2024,CA-525,El Dorado County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2024,CA-525,El Dorado County CoC,Questioning,*
+2024,CA-525,El Dorado County CoC,Transgender,*
+2024,CA-526,"Amador, Calaveras, Mariposa, Tuolumne Counties CoC",Cisgender Man,301
+2024,CA-526,"Amador, Calaveras, Mariposa, Tuolumne Counties CoC",Cisgender Woman,361
+2024,CA-526,"Amador, Calaveras, Mariposa, Tuolumne Counties CoC",Transgender,*
+2024,CA-527,Tehama County CoC,Cisgender Man,311
+2024,CA-527,Tehama County CoC,Cisgender Woman,252
+2024,CA-527,Tehama County CoC,Client doesn't know,*
+2024,CA-529,Lake County CoC,Cisgender Man,124
+2024,CA-529,Lake County CoC,Cisgender Woman,131
+2024,CA-529,Lake County CoC,Client doesn't know,*
+2024,CA-529,Lake County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2024,CA-529,Lake County CoC,Transgender,*
+2024,CA-530,"Alpine, Inyo, Mono Counties CoC",Cisgender Man,29
+2024,CA-530,"Alpine, Inyo, Mono Counties CoC",Cisgender Woman,35
+2024,CA-531,Nevada County CoC,Cisgender Man,518
+2024,CA-531,Nevada County CoC,Cisgender Woman,372
+2024,CA-531,Nevada County CoC,Client doesn't know,12
+2024,CA-531,Nevada County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2024,CA-531,Nevada County CoC,Transgender,*
+2024,CA-600,Los Angeles County CoC,Cisgender Man,45704
+2024,CA-600,Los Angeles County CoC,Cisgender Woman,30249
+2024,CA-600,Los Angeles County CoC,Client doesn't know,589
+2024,CA-600,Los Angeles County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",179
+2024,CA-600,Los Angeles County CoC,Questioning,*
+2024,CA-600,Los Angeles County CoC,Transgender,639
+2024,CA-601,San Diego County CoC,Cisgender Man,10940
+2024,CA-601,San Diego County CoC,Cisgender Woman,8055
+2024,CA-601,San Diego County CoC,Client doesn't know,57
+2024,CA-601,San Diego County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",67
+2024,CA-601,San Diego County CoC,Questioning,*
+2024,CA-601,San Diego County CoC,Transgender,102
+2024,CA-602,Orange County CoC,Cisgender Man,8526
+2024,CA-602,Orange County CoC,Cisgender Woman,6144
+2024,CA-602,Orange County CoC,Client doesn't know,844
+2024,CA-602,Orange County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",39
+2024,CA-602,Orange County CoC,Questioning,*
+2024,CA-602,Orange County CoC,Transgender,55
+2024,CA-603,Santa Barbara County CoC,Cisgender Man,1574
+2024,CA-603,Santa Barbara County CoC,Cisgender Woman,1166
+2024,CA-603,Santa Barbara County CoC,Client doesn't know,36
+2024,CA-603,Santa Barbara County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2024,CA-603,Santa Barbara County CoC,Transgender,*
+2024,CA-604,Kern County CoC,Cisgender Man,3126
+2024,CA-604,Kern County CoC,Cisgender Woman,2838
+2024,CA-604,Kern County CoC,Client doesn't know,*
+2024,CA-604,Kern County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2024,CA-604,Kern County CoC,Questioning,*
+2024,CA-604,Kern County CoC,Transgender,11
+2024,CA-606,Long Beach CoC (Los Angeles County),Cisgender Man,2944
+2024,CA-606,Long Beach CoC (Los Angeles County),Cisgender Woman,1605
+2024,CA-606,Long Beach CoC (Los Angeles County),Client doesn't know,27
+2024,CA-606,Long Beach CoC (Los Angeles County),"Culturally Specific, Non-Binary, and/or a Different Identity",11
+2024,CA-606,Long Beach CoC (Los Angeles County),Questioning,*
+2024,CA-606,Long Beach CoC (Los Angeles County),Transgender,25
+2024,CA-607,Pasadena CoC (Los Angeles County),Cisgender Man,705
+2024,CA-607,Pasadena CoC (Los Angeles County),Cisgender Woman,468
+2024,CA-607,Pasadena CoC (Los Angeles County),Client doesn't know,*
+2024,CA-607,Pasadena CoC (Los Angeles County),"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2024,CA-607,Pasadena CoC (Los Angeles County),Transgender,*
+2024,CA-608,Riverside County CoC,Cisgender Man,4533
+2024,CA-608,Riverside County CoC,Cisgender Woman,4005
+2024,CA-608,Riverside County CoC,Client doesn't know,19
+2024,CA-608,Riverside County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",19
+2024,CA-608,Riverside County CoC,Questioning,*
+2024,CA-608,Riverside County CoC,Transgender,34
+2024,CA-609,San Bernardino County CoC,Cisgender Man,3056
+2024,CA-609,San Bernardino County CoC,Cisgender Woman,3062
+2024,CA-609,San Bernardino County CoC,Client doesn't know,*
+2024,CA-609,San Bernardino County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2024,CA-609,San Bernardino County CoC,Transgender,*
+2024,CA-611,Ventura County CoC,Cisgender Man,1297
+2024,CA-611,Ventura County CoC,Cisgender Woman,980
+2024,CA-611,Ventura County CoC,Client doesn't know,37
+2024,CA-611,Ventura County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2024,CA-611,Ventura County CoC,Questioning,*
+2024,CA-611,Ventura County CoC,Transgender,14
+2024,CA-612,Glendale CoC (Los Angeles County),Cisgender Man,263
+2024,CA-612,Glendale CoC (Los Angeles County),Cisgender Woman,259
+2024,CA-612,Glendale CoC (Los Angeles County),"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2024,CA-612,Glendale CoC (Los Angeles County),Transgender,12
+2024,CA-613,Imperial County CoC,Cisgender Man,508
+2024,CA-613,Imperial County CoC,Cisgender Woman,657
+2024,CA-613,Imperial County CoC,Client doesn't know,*
+2024,CA-613,Imperial County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",*
+2024,CA-613,Imperial County CoC,Transgender,*
+2024,CA-614,San Luis Obispo County CoC,Cisgender Man,1413
+2024,CA-614,San Luis Obispo County CoC,Cisgender Woman,1111
+2024,CA-614,San Luis Obispo County CoC,Client doesn't know,13
+2024,CA-614,San Luis Obispo County CoC,"Culturally Specific, Non-Binary, and/or a Different Identity",14
+2024,CA-614,San Luis Obispo County CoC,Transgender,*
