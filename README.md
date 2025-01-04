@@ -18,19 +18,9 @@ This project analyzes a dataset of individuals who have accessed homeless respon
 
 # Skills & Tools
 
-
-
 # Education 
 - Oregon State University: Bachelor's degree
-
-
-  2. Links
-     - [Linkedin](https://www.linkedin.com/in/aliyah-good-5a5520253/)
-
-
   
-# Projects
-
-# Links
-
-
+# Contacts
+- LinkedIn: [@aliyahgood](https://www.linkedin.com/in/aliyah-good-5a5520253/)
+- Email: goodaliyah@outlook.com
