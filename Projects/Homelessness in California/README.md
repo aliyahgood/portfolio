@@ -27,8 +27,8 @@ This project explores homelessness in California using demographic and county-le
 - **Donut Charts:** Demographic breakdowns by race, gender, and age
 - **Line Charts:** Trends in homelessness by demographic
 - **Interactive Filters:**
-   - **Year Filter:** Allow users to filter the data by specific years to track changes over time
-   - **County Filter:** Enables users to focus on individual counties, offering detailed insights at the local level
+   - **Year:** Allow users to filter the data by specific years to track changes over time
+   - **County:** Enables users to focus on individual counties, offering detailed insights at the local level
 
 ![Homelessness Dashboard](./CA_homelessness_dashboard.png)
 
