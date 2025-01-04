@@ -1,5 +1,9 @@
 # Homelessness in California: A County-Level Analysis
 
+## Project Links:
+- [Tableau Dashboard](https://public.tableau.com/app/profile/aliyah.good/viz/homelessness_in_california/HomelessnessDashboard?publish=yes/)
+- [SQL Code](./CA_homelessness_data_cleaning.sql)
+
 ## Overview
 
 This project explores homelessness in California using demographic and county-level data. An interactive Tableau dashboard was created to identify trends and actionable insights into homelessness by race, gender, age, and location.
