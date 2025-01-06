@@ -7,7 +7,7 @@ I'm a soon-to-be graduate in Economics, minoring in Computer Science, with a str
 # Recent Projects
 
 ### [California Homeless Response Services Analysis](https://github.com/aliyahgood/portfolio/tree/main/Homelessness%20in%20California#homelessness-in-california-a-county-level-analysis)
-Analyzed a dataset of individuals who have accessed homeless response services, examining the distribution of services across different age, race, and gender groups at the county level. Used data-driven insights to recommend strategies for equitable resource allocation, targeted outreach, and support planning.
+Analyzed a dataset of individuals who have accessed homeless response services, examining the distribution of services across different age, race, and gender groups at the county level. Used data-driven insights to recommend strategies for equitable resource allocation and targeted outreach.
 
 **Technologies Used:** SQL, Tableau
 
