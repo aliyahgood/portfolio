@@ -2,9 +2,9 @@
 
 ## Overview
 
-This project explores homelessness in California using demographic and county-level data. An interactive Tableau dashboard was created to identify trends and actionable insights into homelessness by race, gender, age, and location.
+This project analyzes a dataset of individuals who have accessed homeless response services, examining the distribution of services across different age, race, and gender groups at the county level. An interactive Tableau dashboard was created to visualize trends and provide actionable insights for equitable resource allocation, targeted outreach, and support planning. 
 
-## Project Links:
+## Project Links
 - [Tableau Dashboard](https://public.tableau.com/app/profile/aliyah.good/viz/homelessness_in_california/HomelessnessDashboard?publish=yes/)
 - [SQL Code](./CA_homelessness_data_cleaning.sql)
   
@@ -14,26 +14,25 @@ This project explores homelessness in California using demographic and county-le
   - Available at: [data.gov](https://catalog.data.gov/dataset/people-receiving-homeless-response-services-by-age-race-ethnicity-and-gender-b667d/resource/6860eb43-14bd-4b02-8843-d5e07bb510aa)
 - **Contents:**
   - Homelessness Count by:
-    - Age: `cy_age.csv`
-    - Gender: `cy_gender.csv`
-    - Race: `cy_race.csv`
- 
+    - Age: <code>[cy_age.csv](https://github.com/aliyahgood/portfolio/blob/main/Homelessness%20in%20California/data/cy_age.csv)</code>
+    - Gender: <code>[cy_gender.csv](https://github.com/aliyahgood/portfolio/blob/main/Homelessness%20in%20California/data/cy_gender.csv)</code>
+    - Race: <code>[cy_race.csv](https://github.com/aliyahgood/portfolio/blob/main/Homelessness%20in%20California/data/cy_race.csv)</code>
+
 ## Tools and Technologies
 - **SQL:** Data cleaning and preprocessing
-- **Tableau:** Data visualization and dashboard creation
+- **Tableau:** Data visualization and interactive dashboard creation
 
 ## Dashboard Features
-- **Choropleth Map:** Homeless counts by county
-- **Donut Charts:** Demographic breakdowns by race, gender, and age
-- **Line Charts:** Trends in homelessness by demographic
+- **Choropleth Map:** Visualizes the distribution of individuals receiving homeless response services by county
+- **Donut Charts:** Displays demographic breakdowns by race, gender, and age
+- **Line Charts:** Shows trends in the number of individuals receiving homeless response services by demographic over time 
 - **Interactive Filters:**
-   - **Year:** Allow users to filter the data by specific years to track changes over time
-   - **County:** Enables users to focus on individual counties, offering detailed insights at the local level
-
-![Homelessness Dashboard](./CA_homelessness_dashboard.png)
-
+   - **Year:** Allows users to filter data by specific years, tracking changes over time
+   - **County:** Enables users to filter data by county, offering insights at a local level
 
 For a more in-depth exploration and to interact with the data, visit the live [Tableau Dashboard](https://public.tableau.com/app/profile/aliyah.good/viz/homelessness_in_california/HomelessnessDashboard?publish=yes/)
+
+![Homelessness Dashboard](./CA_homelessness_dashboard.png)
 
 ## Insights and Recommendations
 - Geographic Trends
