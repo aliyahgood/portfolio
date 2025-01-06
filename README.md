@@ -12,6 +12,12 @@ Analyzed a dataset of individuals who have accessed homeless response services, 
 **Technologies Used:** SQL, Tableau
 
 ### Forecasting Model
+
+### Airbnb Insights
+Created a dashboard to analyze and visualize Seattle Airbnb data. Derived insights on listing distribution by bedroom count, pricing trends, and peak popularity periods to understand market dynamics and optimize rental pricing.  
+
+**Technologies Used:** Tableau
+
 ### Other work
 - [SQL](https://github.com/aliyahgood/portfolio/tree/main/Projects/SQL)
 - [Tableau](https://github.com/aliyahgood/portfolio/tree/main/Projects/Tableau)
