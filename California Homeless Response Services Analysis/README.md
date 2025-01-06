@@ -1,4 +1,4 @@
-# Homelessness in California: A County-Level Analysis
+# California Homeless Response Services: a County-Level Analysis
 
 ## Overview
 
@@ -14,9 +14,9 @@ This project analyzes a dataset of individuals who have accessed homeless respon
   - Available at: [data.gov](https://catalog.data.gov/dataset/people-receiving-homeless-response-services-by-age-race-ethnicity-and-gender-b667d/resource/6860eb43-14bd-4b02-8843-d5e07bb510aa)
 - **Contents:**
   - Homelessness Count by:
-    - Age: <code>[cy_age.csv](https://github.com/aliyahgood/portfolio/blob/main/Homelessness%20in%20California/data/cy_age.csv)</code>
-    - Gender: <code>[cy_gender.csv](https://github.com/aliyahgood/portfolio/blob/main/Homelessness%20in%20California/data/cy_gender.csv)</code>
-    - Race: <code>[cy_race.csv](https://github.com/aliyahgood/portfolio/blob/main/Homelessness%20in%20California/data/cy_race.csv)</code>
+    - Age: <code>[cy_age.csv](https://github.com/aliyahgood/portfolio/blob/main/California%20Homeless%20Response%20Services%20Analysis/data/cy_age.csv)</code>
+    - Gender: <code>[cy_gender.csv](https://github.com/aliyahgood/portfolio/blob/main/California%20Homeless%20Response%20Services%20Analysis/data/cy_gender.csv)</code>
+    - Race: <code>[cy_race.csv](https://github.com/aliyahgood/portfolio/blob/main/California%20Homeless%20Response%20Services%20Analysis/data/cy_race.csv)</code>
 
 ## Tools and Technologies
 - **SQL:** Data cleaning and preprocessing
