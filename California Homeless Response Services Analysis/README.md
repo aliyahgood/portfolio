@@ -11,7 +11,7 @@ This project analyzes a dataset of individuals who have accessed homeless respon
 ## Dataset
 - **Title:** `People Receiving Homeless Response Services by Age, Race, and Gender`
 - **Source:** Homelessness Data Integration System (HDIS)
-  - Available at: [data.gov](https://catalog.data.gov/dataset/people-receiving-homeless-response-services-by-age-race-ethnicity-and-gender-b667d/resource/6860eb43-14bd-4b02-8843-d5e07bb510aa)
+  - Available at: [data.gov](https://catalog.data.gov/dataset/people-receiving-homeless-response-services-by-age-race-ethnicity-and-gender-b667d)
 - **Contents:**
   - Homelessness Count by:
     - Age: <code>[cy_age.csv](https://github.com/aliyahgood/portfolio/blob/main/California%20Homeless%20Response%20Services%20Analysis/data/cy_age.csv)</code>
