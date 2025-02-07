@@ -3,7 +3,7 @@
 I'm a soon-to-be graduate in Economics minoring in Computer Science with a strong foundation in statistics, programming, and data analysis. I have a passion for uncovering insights through data modeling and visualization, as well as experience in full-stack web development. I am actively seeking opportunities to apply my skills and gain industry experience in data or financial analysis.
 
 # Recent Projects
-### [King County Airbnb Market Analysis](https://github.com/aliyahgood/portfolio/tree/main/King%20County%%20Airbnb%20Market%20Analysis)
+### [King County Airbnb Market Analysis](https://github.com/aliyahgood/portfolio/tree/main/King%20County%20Airbnb%20Market%20Analysis)
 
 Developed an interactive [Tableau Dashboard](https://public.tableau.com/app/profile/aliyah.good/viz/AirBNBSalesAnalysis/Dashboard3) to analyze profitability and market saturation trends. Compiled a market report recommending investment in five low-saturation zip codes, outlining a strategic approach for entering high-profit, under-exploited markets.
 
