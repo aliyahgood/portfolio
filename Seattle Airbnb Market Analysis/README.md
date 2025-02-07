@@ -5,7 +5,7 @@
 This project analyzes a dataset of Airbnb listings in King County. 
 
 ## Project Links
-- [Tableau Dashboard]()
+- [Tableau Dashboard](https://public.tableau.com/app/profile/aliyah.good/viz/AirBNBSalesAnalysis/Dashboard3)
   
 ## Dataset
 - **Title:** ``
