@@ -5,7 +5,7 @@ I'm a soon-to-be graduate in Economics minoring in Computer Science with a stron
 # Recent Projects
 ### [King County Airbnb Market Analysis](https://github.com/aliyahgood/portfolio/tree/main/King%20County%%20Airbnb%20Market%20Analysis)
 
-Created a [Tableau Dashboard](https://public.tableau.com/app/profile/aliyah.good/viz/AirBNBSalesAnalysis/Dashboard3) to analyze and visualize Seattle Airbnb data. Derived insights on listing distribution by bedroom count, pricing trends, and peak popularity periods to understand market dynamics and optimize rental pricing.  
+Developed an interactive [Tableau Dashboard](https://public.tableau.com/app/profile/aliyah.good/viz/AirBNBSalesAnalysis/Dashboard3) to analyze profitability and market saturation trends. Compiled a market report recommending investment in five low-saturation zip codes, outlining a strategic approach for entering high-profit, under-exploited markets.
 
 **Technologies Used:** Tableau
 
