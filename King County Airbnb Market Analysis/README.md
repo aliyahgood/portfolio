@@ -34,4 +34,4 @@ For a more in-depth exploration and to interact with the data, visit the live [T
 ## Insights and Recommendations
 
 ## Future Improvements
-To expand on this project, I would look more into market demand dynamics and include this alongside competition to give more informed advice on where one should invest for maximum profit. 
+To expand this project, I would analyze market demand dynamics alongside competition to provide a more comprehensive investment strategy. Incorporating factors like occupancy rates, seasonal trends, and competitor pricing would offer deeper insights into the most profitable and sustainable investment opportunities.
