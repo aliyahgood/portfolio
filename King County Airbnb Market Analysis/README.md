@@ -24,7 +24,7 @@ This project analyzes a dataset of Airbnb listings in King County.
 
 For a more in-depth exploration and to interact with the data, visit the live [Tableau Dashboard](https://public.tableau.com/app/profile/aliyah.good/viz/AirBNBSalesAnalysis/Dashboard3)
 
-![Homelessness Dashboard](./KCAirbnbDash.png)
+![King_County_Airbnb_Dashboard](./King_County_Airbnb_Dashboard.png)
 
 ## Insights and Recommendations
 
