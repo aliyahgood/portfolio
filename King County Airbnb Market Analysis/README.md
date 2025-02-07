@@ -8,19 +8,24 @@ This project analyzes a dataset of Airbnb listings in King County.
 - [Tableau Dashboard](https://public.tableau.com/app/profile/aliyah.good/viz/AirBNBSalesAnalysis/Dashboard3)
   
 ## Dataset
-- **Title:** ``
-- **Source:**
+- **Title:** `Airbnb Listings 2016 Dataset`
+- **Source:** Alex The Analyst
+  - Available at: [kaggle.com](https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset)
 - **Contents:**
-
+  - Calendar: listing date, pricing, and availability
+  - Listings: listing description
+  - Reviews: listing review details 
+    
 ## Tools and Technologies
 - **Tableau:** Data visualization and interactive dashboard creation
 
 ## Dashboard Features
 - **Choropleth Map:** 
-- **Line Charts:** Shows trends in the number of individuals receiving homeless response services by demographic over time 
+- **Box and Whisker Plot:**
+- **Treemap:**
+- **Table:** 
 - **Interactive Filters:**
-   - **Year:** Allows users to filter data by specific years, tracking changes over time
-   - **County:** Enables users to filter data by county, offering insights at a local level
+   - **Zip code:** Allows users to filter data by zip code, providing a more comprehensive view of median price, percentile, and prices by property type and the number of bedrooms.
 
 For a more in-depth exploration and to interact with the data, visit the live [Tableau Dashboard](https://public.tableau.com/app/profile/aliyah.good/viz/AirBNBSalesAnalysis/Dashboard3)
 
