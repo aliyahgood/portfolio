@@ -18,6 +18,18 @@ Analyzed a dataset of individuals who have accessed homeless response services, 
 
 [![Homelessness Dashboard](California%20Homeless%20Response%20Services%20Analysis/CA_homelessness_dashboard.png)](https://public.tableau.com/app/profile/aliyah.good/viz/homelessness_in_california_17360271989350/HomelessnessDashboard)
 
+### [Dune Spice Production Management System]()
+
+Designed a relational database system and built an interactive web-based frontend to enable users to efficiently manage and report on production data.
+
+**Technologies Used:** SQL, JavaScript
+
+### [Experience Log Social App]()
+
+Designed and implemented a data-driven web application allowing users to log, rate, and share experiences in a feed format. Created a MySQL database to store user information, experiences, and ratings, ensuring optimized data retrieval and storage performance.
+
+**Technologies Used:** SQL, Python, JavaScript
+
 ### Other work
 - [SQL](https://github.com/aliyahgood/portfolio/tree/main/Projects/SQL)
 - [Tableau](https://github.com/aliyahgood/portfolio/tree/main/Projects/Tableau)
