@@ -9,14 +9,14 @@ Created a [Tableau Dashboard](https://public.tableau.com/app/profile/aliyah.good
 
 **Technologies Used:** Tableau
 
-![King_County_Airbnb_Dashboard](King%20County%20Airbnb%20Market%20Analysis/King_County_Airbnb_Dashboard.png)
+[![King_County_Airbnb_Dashboard](King%20County%20Airbnb%20Market%20Analysis/King_County_Airbnb_Dashboard.png)](https://public.tableau.com/app/profile/aliyah.good/viz/AirBNBSalesAnalysis/Dashboard3)
 
 ### [California Homeless Response Services Analysis](https://github.com/aliyahgood/portfolio/tree/main/Homelessness%20in%20California#homelessness-in-california-a-county-level-analysis)
 Analyzed a dataset of individuals who have accessed homeless response services, examining the distribution of services across different age, race, and gender groups at the county level. Used data-driven insights to recommend strategies for equitable resource allocation and targeted outreach.
 
 **Technologies Used:** SQL, Tableau
 
-![Homelessness Dashboard](California%20Homeless%20Response%20Services%20Analysis/CA_homelessness_dashboard.png)
+[![Homelessness Dashboard](California%20Homeless%20Response%20Services%20Analysis/CA_homelessness_dashboard.png)](https://public.tableau.com/app/profile/aliyah.good/viz/homelessness_in_california_17360271989350/HomelessnessDashboard)
 
 ### Other work
 - [SQL](https://github.com/aliyahgood/portfolio/tree/main/Projects/SQL)
