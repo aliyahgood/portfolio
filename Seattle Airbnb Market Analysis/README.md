@@ -22,8 +22,11 @@ This project analyzes a dataset of Airbnb listings in King County.
    - **Year:** Allows users to filter data by specific years, tracking changes over time
    - **County:** Enables users to filter data by county, offering insights at a local level
 
-For a more in-depth exploration and to interact with the data, visit the live [Tableau Dashboard]()
+For a more in-depth exploration and to interact with the data, visit the live [Tableau Dashboard](https://public.tableau.com/app/profile/aliyah.good/viz/AirBNBSalesAnalysis/Dashboard3)
 
-![Homelessness Dashboard]()
+![Homelessness Dashboard](./KCAirbnbDash.png)
 
 ## Insights and Recommendations
+
+## Future Improvements
+To expand on this project, I would look more into market demand dynamics and include this alongside competition to give more informed advice on where one should invest for maximum profit. 
