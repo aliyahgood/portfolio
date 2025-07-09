@@ -20,7 +20,7 @@ Analyzed a dataset of individuals who have accessed homeless response services, 
 
 ### [Dune Spice Production Management System]()
 
-Designed a relational database system and built an interactive web-based frontend to enable users to efficiently manage and report on production data.
+Designed a relational database system and built an interactive web-based frontend to enable users to manage and report on production data efficiently.
 
 **Technologies Used:** SQL, JavaScript
 
@@ -30,20 +30,16 @@ Designed and implemented a data-driven web application allowing users to log, ra
 
 **Technologies Used:** SQL, Python, JavaScript
 
-### Other work
-- [SQL](https://github.com/aliyahgood/portfolio/tree/main/Projects/SQL)
-- [Tableau](https://github.com/aliyahgood/portfolio/tree/main/Projects/Tableau)
-
 # Skills & Tools
 
 - Programming Languages: Python, JavaScript
-- Data Analysis & Visualization: SQL, Tableau, Pandas, Matplotlib
+- Data Analysis & Visualization: SQL, Tableau, Power BI, Pandas, Matplotlib
 - Web Development: Node.js, React, Vue, HTML/CSS
 - Database Management: MySQL, MongoDB
 - IDE: Jupyter Notebook, VS Code, PyCharm
 
 # Education 
-- Oregon State University: BS in Economics, Minor in Computer Science
+- Oregon State University: BS in Managerial Economics, Minor in Computer Science
   
 # Contacts
 - LinkedIn: [@aliyahgood](https://www.linkedin.com/in/aliyah-good-5a5520253/)
