@@ -1,6 +1,6 @@
 # Hi, I'm Aliyah - Aspiring Data Analyst
 
-I'm a soon-to-be graduate in Economics minoring in Computer Science with a strong foundation in statistics, programming, and data analysis. I have a passion for uncovering insights through data modeling and visualization, as well as experience in full-stack web development. I am actively seeking opportunities to apply my skills and gain industry experience in data or financial analysis.
+I'm a recent graduate in Economics with a minor in Computer Science, bringing a strong foundation in statistics, data analysis, and programming. I have hands-on experience in inventory management, vendor coordination, POS data analysis, and scheduling optimization, which I've applied to improve operational efficiency and support team performance. I'm now seeking opportunities to leverage both my technical and operational background in data or supply chain analyst roles.
 
 # Recent Projects
 ### [King County Airbnb Market Analysis](https://github.com/aliyahgood/portfolio/tree/main/King%20County%20Airbnb%20Market%20Analysis)
